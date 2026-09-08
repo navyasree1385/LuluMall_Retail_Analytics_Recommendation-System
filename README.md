@@ -249,9 +249,6 @@ Entrypoint:
 
 The repository contains `requirements.txt` so the cloud environment can install the required Python packages.
 
-Official Streamlit deployment documentation:
-
-https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app
 
 ## 🔄 Updating the Deployed App
 
