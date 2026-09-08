@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Store_ID,Store_Name,City,State,Region,Customer_ID,Customer_Gender,Product_Category,Product_Name,Quantity,Unit_Price,Revenue,Payment_Mode,Year,Month,Month_Name,Quarter
+ORD0100,2024-01-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0556,Female,Fashion,Adidas Women's Sports Shoes,1,5123,5123,UPI,2024,1,January,1
+ORD0763,2024-01-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0073,Female,Beauty,Dove Body Lotion 400ml,1,571,571,UPI,2024,1,January,1
+ORD0654,2024-01-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0260,Male,Grocery,Haldiram's Bhujia Sev 1kg,3,439,1317,Net Banking,2024,1,January,1
+ORD0485,2024-01-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0727,Male,Electronics,Redmi Note 13 Pro,1,22889,22889,EMI,2024,1,January,1
+ORD0926,2024-01-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0242,Male,Fashion,Raymond Men's Formal Shirt,2,2373,4746,EMI,2024,1,January,1
+ORD1051,2024-01-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0513,Female,Grocery,Nescafe Classic Coffee 200g,1,840,840,EMI,2024,1,January,1
+ORD0280,2024-01-04,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0422,Male,Electronics,Dell Inspiron Laptop,5,62555,312775,Cash,2024,1,January,1
+ORD0426,2024-01-04,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0679,Female,Grocery,Fresh Fruits Combo Basket,1,889,889,Cash,2024,1,January,1
+ORD0497,2024-01-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0634,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,3,8372,25116,Cash,2024,1,January,1
+ORD0914,2024-01-04,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0486,Female,Fashion,Nike Running Shoes Men,1,3849,3849,EMI,2024,1,January,1
+ORD1122,2024-01-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0720,Female,Fashion,Arrow Men's Formal Trouser,2,3200,6400,Net Banking,2024,1,January,1
+ORD0362,2024-01-05,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0299,Female,Home Appliances,Crompton 25L Geyser Water Heater,1,7900,7900,UPI,2024,1,January,1
+ORD0628,2024-01-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0677,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,163,163,EMI,2024,1,January,1
+ORD0977,2024-01-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0070,Male,Beauty,Biotique Bio Sunscreen SPF60,2,726,1452,Debit Card,2024,1,January,1
+ORD1184,2024-01-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0427,Male,Home Appliances,Kent Grand Plus RO Water Purifier,1,21091,21091,Net Banking,2024,1,January,1
+ORD0111,2024-01-08,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0420,Male,Electronics,Dell Inspiron Laptop,2,56093,112186,UPI,2024,1,January,1
+ORD0679,2024-01-08,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0574,Male,Fashion,W Women's Casual Dress,1,2925,2925,Credit Card,2024,1,January,1
+ORD0862,2024-01-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0446,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,15970,15970,Credit Card,2024,1,January,1
+ORD0700,2024-01-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0499,Female,Beauty,Biotique Bio Sunscreen SPF60,1,443,443,UPI,2024,1,January,1
+ORD0734,2024-01-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0058,Female,Home Appliances,Voltas 1.5T 3 Star Split AC,1,38643,38643,EMI,2024,1,January,1
+ORD0795,2024-01-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0167,Male,Electronics,Samsung Galaxy Tab S9,1,39439,39439,Cash,2024,1,January,1
+ORD1071,2024-01-09,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0047,Female,Grocery,Fortune Refined Sunflower Oil 5L,2,855,1710,EMI,2024,1,January,1
+ORD1037,2024-01-10,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0600,Female,Fashion,Adidas Women's Sports Shoes,2,5062,10124,Cash,2024,1,January,1
+ORD0961,2024-01-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0697,Female,Electronics,Philips Air Fryer,3,7483,22449,Credit Card,2024,1,January,1
+ORD1165,2024-01-11,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0014,Male,Electronics,LG Front Load Washing Machine,1,40770,40770,EMI,2024,1,January,1
+ORD0375,2024-01-12,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0203,Female,Home Appliances,Bajaj 750W Mixer Grinder,1,3858,3858,UPI,2024,1,January,1
+ORD0944,2024-01-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0325,Female,Fashion,Fabindia Women's Kurta Set,2,1703,3406,Debit Card,2024,1,January,1
+ORD0969,2024-01-13,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0232,Female,Beauty,Forest Essentials Luxury Face Wash,1,1401,1401,Debit Card,2024,1,January,1
+ORD1196,2024-01-13,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0392,Female,Grocery,Organic India Premium Basmati Rice 5kg,1,598,598,EMI,2024,1,January,1
+ORD0827,2024-01-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0641,Female,Fashion,Puma Men's Track Pants,5,2206,11030,UPI,2024,1,January,1
+ORD0547,2024-01-15,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0265,Male,Fashion,Adidas Women's Sports Shoes,3,5772,17316,Debit Card,2024,1,January,1
+ORD0879,2024-01-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0725,Female,Grocery,Britannia Digestive Biscuits Multipack,1,251,251,Cash,2024,1,January,1
+ORD0949,2024-01-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0240,Male,Fashion,Titan Raga Ladies Watch,1,10530,10530,Net Banking,2024,1,January,1
+ORD0291,2024-01-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0462,Female,Fashion,Arrow Men's Formal Trouser,2,2568,5136,EMI,2024,1,January,1
+ORD0819,2024-01-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0055,Male,Grocery,Organic India Premium Basmati Rice 5kg,1,541,541,EMI,2024,1,January,1
+ORD1065,2024-01-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0490,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,361,361,Cash,2024,1,January,1
+ORD0284,2024-01-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0389,Female,Grocery,Organic India Premium Basmati Rice 5kg,3,454,1362,Cash,2024,1,January,1
+ORD0408,2024-01-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0530,Male,Electronics,Samsung Galaxy Tab S9,4,40664,162656,Credit Card,2024,1,January,1
+ORD0609,2024-01-18,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0611,Male,Grocery,Britannia Digestive Biscuits Multipack,1,251,251,Credit Card,2024,1,January,1
+ORD0759,2024-01-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0404,Female,Home Appliances,Bajaj 750W Mixer Grinder,2,4353,8706,Cash,2024,1,January,1
+ORD0359,2024-01-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0732,Female,Fashion,Adidas Women's Sports Shoes,4,4704,18816,Debit Card,2024,1,January,1
+ORD0430,2024-01-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0586,Male,Fashion,Adidas Women's Sports Shoes,2,5811,11622,UPI,2024,1,January,1
+ORD0511,2024-01-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0557,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,787,787,Net Banking,2024,1,January,1
+ORD0668,2024-01-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0494,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1358,1358,UPI,2024,1,January,1
+ORD0226,2024-01-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0342,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,863,863,Net Banking,2024,1,January,1
+ORD0614,2024-01-20,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0591,Female,Electronics,"Samsung 55"" Smart TV",1,70260,70260,UPI,2024,1,January,1
+ORD0727,2024-01-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0273,Male,Home Appliances,Philips Steam Iron 2400W,1,3376,3376,EMI,2024,1,January,1
+ORD0731,2024-01-21,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0677,Male,Fashion,Puma Men's Track Pants,2,1718,3436,Debit Card,2024,1,January,1
+ORD0766,2024-01-21,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0180,Male,Grocery,Fortune Refined Sunflower Oil 5L,5,735,3675,Credit Card,2024,1,January,1
+ORD0812,2024-01-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0506,Male,Fashion,H&M Women's Handbag,3,4459,13377,EMI,2024,1,January,1
+ORD0213,2024-01-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0030,Male,Electronics,Philips Air Fryer,2,7168,14336,Net Banking,2024,1,January,1
+ORD0587,2024-01-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0563,Male,Fashion,Raymond Men's Formal Shirt,1,1606,1606,Cash,2024,1,January,1
+ORD0952,2024-01-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0476,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,600,600,UPI,2024,1,January,1
+ORD0358,2024-01-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0013,Male,Electronics,Redmi Note 13 Pro,4,21137,84548,Credit Card,2024,1,January,1
+ORD1020,2024-01-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0162,Female,Beauty,Himalaya Purifying Neem Face Wash,2,274,548,Cash,2024,1,January,1
+ORD1148,2024-01-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0429,Female,Beauty,Himalaya Purifying Neem Face Wash,4,288,1152,UPI,2024,1,January,1
+ORD1172,2024-01-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0183,Female,Grocery,Fresh Fruits Combo Basket,2,785,1570,Credit Card,2024,1,January,1
+ORD0361,2024-01-24,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0071,Female,Beauty,Nykaa Lipstick Set of 5,1,1235,1235,UPI,2024,1,January,1
+ORD0740,2024-01-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0344,Male,Electronics,Apple iPhone 15,2,82411,164822,EMI,2024,1,January,1
+ORD0954,2024-01-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0547,Male,Fashion,Puma Men's Track Pants,3,1751,5253,EMI,2024,1,January,1
+ORD0445,2024-01-25,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0670,Male,Electronics,LG Front Load Washing Machine,2,45656,91312,Cash,2024,1,January,1
+ORD0561,2024-01-25,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0708,Male,Electronics,Dell Inspiron Laptop,3,60615,181845,Cash,2024,1,January,1
+ORD0776,2024-01-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0292,Female,Beauty,Mamaearth Onion Hair Oil 250ml,3,482,1446,Debit Card,2024,1,January,1
+ORD1029,2024-01-25,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0786,Male,Beauty,Dove Body Lotion 400ml,1,422,422,Cash,2024,1,January,1
+ORD1142,2024-01-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0001,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,177,177,Debit Card,2024,1,January,1
+ORD0376,2024-01-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0588,Female,Home Appliances,Philips Steam Iron 2400W,1,3216,3216,EMI,2024,1,January,1
+ORD0861,2024-01-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0440,Female,Electronics,Redmi Note 13 Pro,4,19393,77572,Cash,2024,1,January,1
+ORD1124,2024-01-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0389,Male,Fashion,Fabindia Women's Kurta Set,4,2192,8768,Credit Card,2024,1,January,1
+ORD1141,2024-01-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0276,Female,Fashion,W Women's Casual Dress,2,3257,6514,Debit Card,2024,1,January,1
+ORD0290,2024-01-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0238,Male,Fashion,Titan Raga Ladies Watch,1,9879,9879,Debit Card,2024,1,January,1
+ORD0434,2024-01-28,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0598,Male,Grocery,Fortune Refined Sunflower Oil 5L,1,828,828,EMI,2024,1,January,1
+ORD0981,2024-01-28,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0201,Male,Grocery,Fortune Refined Sunflower Oil 5L,1,901,901,Credit Card,2024,1,January,1
+ORD0155,2024-01-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0309,Male,Home Appliances,Usha Table Fan 3 Speed,1,2092,2092,Cash,2024,1,January,1
+ORD0418,2024-01-29,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0163,Male,Fashion,Arrow Men's Formal Trouser,1,2626,2626,Net Banking,2024,1,January,1
+ORD0669,2024-01-29,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0307,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,556,1112,Debit Card,2024,1,January,1
+ORD1189,2024-01-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0189,Male,Home Appliances,Kent Grand Plus RO Water Purifier,1,18910,18910,EMI,2024,1,January,1
+ORD0165,2024-01-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0294,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,438,876,UPI,2024,1,January,1
+ORD0661,2024-01-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0748,Male,Grocery,Fresh Fruits Combo Basket,2,894,1788,Debit Card,2024,1,January,1
+ORD0388,2024-01-31,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0601,Male,Home Appliances,Havells Ceiling Fan Premium,5,4494,22470,Debit Card,2024,1,January,1
+ORD0591,2024-01-31,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0661,Male,Home Appliances,Bajaj 750W Mixer Grinder,2,3015,6030,Debit Card,2024,1,January,1
+ORD1086,2024-01-31,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0342,Male,Home Appliances,Crompton 25L Geyser Water Heater,3,9473,28419,Credit Card,2024,1,January,1
+ORD0479,2024-02-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0303,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,3,37876,113628,Cash,2024,2,February,1
+ORD0738,2024-02-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0109,Male,Grocery,Fresh Fruits Combo Basket,1,825,825,Credit Card,2024,2,February,1
+ORD0970,2024-02-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0100,Male,Grocery,Organic India Premium Basmati Rice 5kg,3,621,1863,Credit Card,2024,2,February,1
+ORD0829,2024-02-03,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0118,Female,Electronics,JBL Portable Bluetooth Speaker,1,5671,5671,EMI,2024,2,February,1
+ORD0855,2024-02-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0617,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,476,952,Credit Card,2024,2,February,1
+ORD0637,2024-02-04,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0737,Male,Electronics,Apple iPhone 15,1,81912,81912,Debit Card,2024,2,February,1
+ORD1012,2024-02-05,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0396,Female,Fashion,Raymond Men's Formal Shirt,1,2273,2273,Cash,2024,2,February,1
+ORD0022,2024-02-06,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0061,Male,Electronics,"Samsung 55"" Smart TV",1,73168,73168,Net Banking,2024,2,February,1
+ORD0584,2024-02-06,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0186,Male,Beauty,Nykaa Lipstick Set of 5,3,1290,3870,Cash,2024,2,February,1
+ORD1089,2024-02-06,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0290,Female,Grocery,Fortune Refined Sunflower Oil 5L,4,879,3516,UPI,2024,2,February,1
+ORD0118,2024-02-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0354,Female,Grocery,Nescafe Classic Coffee 200g,1,776,776,Debit Card,2024,2,February,1
+ORD0722,2024-02-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0284,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,182,182,Cash,2024,2,February,1
+ORD1147,2024-02-08,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0634,Female,Fashion,H&M Women's Handbag,2,2827,5654,Credit Card,2024,2,February,1
+ORD0510,2024-02-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0020,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,3,11318,33954,Credit Card,2024,2,February,1
+ORD1191,2024-02-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0798,Female,Electronics,Dell Inspiron Laptop,2,50333,100666,Cash,2024,2,February,1
+ORD0006,2024-02-10,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0644,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,365,730,Debit Card,2024,2,February,1
+ORD0007,2024-02-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0104,Female,Fashion,W Women's Casual Dress,1,2133,2133,Credit Card,2024,2,February,1
+ORD1047,2024-02-10,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0369,Female,Fashion,H&M Women's Handbag,2,3807,7614,Net Banking,2024,2,February,1
+ORD0857,2024-02-12,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0256,Male,Home Appliances,Philips Steam Iron 2400W,4,3823,15292,UPI,2024,2,February,1
+ORD1097,2024-02-12,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0657,Male,Electronics,Philips Air Fryer,2,9690,19380,EMI,2024,2,February,1
+ORD0152,2024-02-13,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0160,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,1,43042,43042,UPI,2024,2,February,1
+ORD0571,2024-02-13,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0400,Female,Fashion,Raymond Men's Formal Shirt,2,2107,4214,Credit Card,2024,2,February,1
+ORD0815,2024-02-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0405,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,381,381,Credit Card,2024,2,February,1
+ORD0859,2024-02-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0187,Female,Beauty,Mamaearth Onion Hair Oil 250ml,1,514,514,Cash,2024,2,February,1
+ORD0922,2024-02-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0343,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,5,3065,15325,Debit Card,2024,2,February,1
+ORD0998,2024-02-13,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0532,Female,Fashion,Levi's Men's Slim Fit Jeans,2,4405,8810,Debit Card,2024,2,February,1
+ORD0906,2024-02-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0133,Male,Electronics,Philips Air Fryer,1,9031,9031,UPI,2024,2,February,1
+ORD0538,2024-02-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0228,Female,Electronics,"Samsung 55"" Smart TV",1,68740,68740,UPI,2024,2,February,1
+ORD0938,2024-02-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0681,Female,Fashion,Puma Men's Track Pants,2,2194,4388,EMI,2024,2,February,1
+ORD1059,2024-02-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0587,Female,Home Appliances,Usha Table Fan 3 Speed,4,1929,7716,UPI,2024,2,February,1
+ORD0451,2024-02-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0077,Male,Beauty,Forest Essentials Luxury Face Wash,5,1667,8335,Debit Card,2024,2,February,1
+ORD0543,2024-02-16,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0744,Female,Fashion,Raymond Men's Formal Shirt,2,1663,3326,Credit Card,2024,2,February,1
+ORD0730,2024-02-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0349,Male,Home Appliances,Usha Table Fan 3 Speed,1,2826,2826,Net Banking,2024,2,February,1
+ORD0761,2024-02-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0686,Female,Electronics,Samsung Galaxy Tab S9,3,53690,161070,Cash,2024,2,February,1
+ORD1119,2024-02-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0079,Male,Beauty,Biotique Bio Sunscreen SPF60,1,694,694,EMI,2024,2,February,1
+ORD0039,2024-02-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0284,Male,Electronics,Apple iPhone 15,5,80438,402190,Credit Card,2024,2,February,1
+ORD0103,2024-02-17,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0117,Female,Beauty,Biotique Bio Sunscreen SPF60,4,655,2620,Debit Card,2024,2,February,1
+ORD0334,2024-02-17,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0470,Female,Home Appliances,Havells Ceiling Fan Premium,1,4629,4629,UPI,2024,2,February,1
+ORD0338,2024-02-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0257,Male,Fashion,Nike Running Shoes Men,1,3712,3712,Debit Card,2024,2,February,1
+ORD0488,2024-02-17,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0219,Female,Fashion,Raymond Men's Formal Shirt,5,1647,8235,Net Banking,2024,2,February,1
+ORD0720,2024-02-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0609,Male,Beauty,L'Oreal Paris Revitalift Face Cream,1,822,822,Net Banking,2024,2,February,1
+ORD0834,2024-02-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0593,Male,Grocery,Britannia Digestive Biscuits Multipack,2,267,534,Net Banking,2024,2,February,1
+ORD0247,2024-02-18,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0144,Female,Fashion,Adidas Women's Sports Shoes,1,3027,3027,Credit Card,2024,2,February,1
+ORD0867,2024-02-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0054,Female,Beauty,Park Avenue Signature Perfume 100ml,5,2525,12625,EMI,2024,2,February,1
+ORD1098,2024-02-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0186,Female,Grocery,Nescafe Classic Coffee 200g,2,676,1352,Cash,2024,2,February,1
+ORD1090,2024-02-19,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0771,Male,Home Appliances,Usha Table Fan 3 Speed,2,2437,4874,Net Banking,2024,2,February,1
+ORD0675,2024-02-20,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0529,Male,Fashion,Levi's Men's Slim Fit Jeans,1,4381,4381,Net Banking,2024,2,February,1
+ORD0913,2024-02-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0373,Female,Home Appliances,Bajaj 750W Mixer Grinder,2,3326,6652,UPI,2024,2,February,1
+ORD0035,2024-02-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0219,Female,Electronics,Redmi Note 13 Pro,4,18563,74252,Debit Card,2024,2,February,1
+ORD0114,2024-02-21,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0711,Female,Beauty,Lakme Absolute Foundation SPF15,3,1132,3396,Debit Card,2024,2,February,1
+ORD0262,2024-02-21,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0458,Male,Fashion,Levi's Men's Slim Fit Jeans,2,4147,8294,Net Banking,2024,2,February,1
+ORD0536,2024-02-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0411,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,2,13710,27420,Cash,2024,2,February,1
+ORD0976,2024-02-21,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0692,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,225,225,Cash,2024,2,February,1
+ORD0326,2024-02-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0670,Male,Fashion,Levi's Men's Slim Fit Jeans,1,4342,4342,Cash,2024,2,February,1
+ORD0147,2024-02-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0218,Male,Grocery,Fortune Refined Sunflower Oil 5L,1,916,916,Net Banking,2024,2,February,1
+ORD0719,2024-02-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0360,Male,Home Appliances,Usha Table Fan 3 Speed,1,1895,1895,Net Banking,2024,2,February,1
+ORD1022,2024-02-23,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0799,Female,Fashion,Nike Running Shoes Men,1,4535,4535,Cash,2024,2,February,1
+ORD0057,2024-02-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0225,Male,Home Appliances,Havells Ceiling Fan Premium,1,4902,4902,Credit Card,2024,2,February,1
+ORD0911,2024-02-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0625,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,1,40311,40311,EMI,2024,2,February,1
+ORD0307,2024-02-25,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0674,Female,Electronics,Philips Air Fryer,2,5362,10724,EMI,2024,2,February,1
+ORD0771,2024-02-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0115,Male,Grocery,Fortune Refined Sunflower Oil 5L,5,833,4165,Cash,2024,2,February,1
+ORD0971,2024-02-25,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0349,Male,Home Appliances,Havells Ceiling Fan Premium,4,3969,15876,Net Banking,2024,2,February,1
+ORD1064,2024-02-25,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0171,Male,Fashion,Puma Men's Track Pants,1,1755,1755,Debit Card,2024,2,February,1
+ORD0136,2024-02-26,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0027,Male,Electronics,Sony Headphones WH-1000XM5,1,12823,12823,Credit Card,2024,2,February,1
+ORD0154,2024-02-26,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0695,Female,Grocery,Britannia Digestive Biscuits Multipack,1,261,261,Net Banking,2024,2,February,1
+ORD0231,2024-02-26,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0452,Female,Fashion,Puma Men's Track Pants,2,1917,3834,Net Banking,2024,2,February,1
+ORD0933,2024-02-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0586,Female,Electronics,Apple iPhone 15,1,71929,71929,Debit Card,2024,2,February,1
+ORD0253,2024-02-27,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0561,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,684,684,Net Banking,2024,2,February,1
+ORD0412,2024-02-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0152,Male,Beauty,Mamaearth Onion Hair Oil 250ml,1,799,799,Debit Card,2024,2,February,1
+ORD0456,2024-02-27,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0744,Male,Beauty,Biotique Bio Sunscreen SPF60,2,453,906,Net Banking,2024,2,February,1
+ORD0624,2024-02-27,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0249,Male,Beauty,Nykaa Lipstick Set of 5,1,914,914,Cash,2024,2,February,1
+ORD0673,2024-02-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0039,Male,Beauty,Park Avenue Signature Perfume 100ml,1,2836,2836,UPI,2024,2,February,1
+ORD0704,2024-02-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0708,Male,Electronics,JBL Portable Bluetooth Speaker,2,5289,10578,Cash,2024,2,February,1
+ORD0710,2024-02-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0606,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,172,172,EMI,2024,2,February,1
+ORD0896,2024-02-27,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0713,Male,Home Appliances,Crompton 25L Geyser Water Heater,2,7970,15940,EMI,2024,2,February,1
+ORD0071,2024-02-28,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0168,Female,Electronics,"Samsung 55"" Smart TV",2,55222,110444,UPI,2024,2,February,1
+ORD0325,2024-02-28,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0557,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,675,1350,UPI,2024,2,February,1
+ORD0455,2024-02-28,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0468,Female,Home Appliances,Kent Grand Plus RO Water Purifier,2,21552,43104,Credit Card,2024,2,February,1
+ORD0503,2024-02-28,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0581,Male,Home Appliances,Havells Ceiling Fan Premium,2,4889,9778,Cash,2024,2,February,1
+ORD0129,2024-02-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0039,Female,Beauty,L'Oreal Paris Revitalift Face Cream,1,799,799,Net Banking,2024,2,February,1
+ORD0311,2024-02-29,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0748,Male,Fashion,W Women's Casual Dress,3,2732,8196,Net Banking,2024,2,February,1
+ORD0676,2024-02-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0046,Male,Fashion,Levi's Men's Slim Fit Jeans,2,2922,5844,EMI,2024,2,February,1
+ORD0898,2024-02-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0157,Female,Beauty,Park Avenue Signature Perfume 100ml,4,1840,7360,Net Banking,2024,2,February,1
+ORD1080,2024-02-29,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0131,Female,Beauty,Mamaearth Onion Hair Oil 250ml,1,777,777,Cash,2024,2,February,1
+ORD0088,2024-03-01,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0427,Male,Home Appliances,Philips Steam Iron 2400W,4,3122,12488,Debit Card,2024,3,March,1
+ORD0259,2024-03-01,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0551,Female,Grocery,Fortune Refined Sunflower Oil 5L,1,913,913,Cash,2024,3,March,1
+ORD0319,2024-03-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0120,Male,Fashion,Nike Running Shoes Men,1,5592,5592,Net Banking,2024,3,March,1
+ORD0520,2024-03-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0425,Female,Home Appliances,Kent Grand Plus RO Water Purifier,2,20531,41062,Credit Card,2024,3,March,1
+ORD0912,2024-03-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0371,Male,Home Appliances,Kent Grand Plus RO Water Purifier,2,21242,42484,EMI,2024,3,March,1
+ORD0021,2024-03-02,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0066,Female,Electronics,JBL Portable Bluetooth Speaker,2,4885,9770,Cash,2024,3,March,1
+ORD0082,2024-03-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0324,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,1,2392,2392,UPI,2024,3,March,1
+ORD0370,2024-03-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0789,Male,Grocery,Haldiram's Bhujia Sev 1kg,4,367,1468,Cash,2024,3,March,1
+ORD0909,2024-03-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0499,Female,Beauty,Dove Body Lotion 400ml,3,323,969,Net Banking,2024,3,March,1
+ORD0058,2024-03-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0476,Female,Beauty,Park Avenue Signature Perfume 100ml,3,3054,9162,Net Banking,2024,3,March,1
+ORD0133,2024-03-03,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0466,Male,Grocery,Fresh Fruits Combo Basket,1,621,621,Debit Card,2024,3,March,1
+ORD0563,2024-03-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0696,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,5,989,4945,Debit Card,2024,3,March,1
+ORD0660,2024-03-03,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0282,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1007,2014,Net Banking,2024,3,March,1
+ORD0729,2024-03-03,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0368,Female,Grocery,Nescafe Classic Coffee 200g,2,614,1228,EMI,2024,3,March,1
+ORD0769,2024-03-03,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0545,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,4,236,944,Cash,2024,3,March,1
+ORD0811,2024-03-04,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0533,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,240,240,EMI,2024,3,March,1
+ORD1113,2024-03-04,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0746,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,324,648,EMI,2024,3,March,1
+ORD0019,2024-03-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0487,Male,Fashion,Titan Raga Ladies Watch,5,8466,42330,Net Banking,2024,3,March,1
+ORD0709,2024-03-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0285,Female,Electronics,Dell Inspiron Laptop,4,54018,216072,Cash,2024,3,March,1
+ORD0778,2024-03-05,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0379,Male,Fashion,Levi's Men's Slim Fit Jeans,5,3798,18990,Credit Card,2024,3,March,1
+ORD0993,2024-03-05,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0599,Female,Fashion,Fabindia Women's Kurta Set,2,3106,6212,EMI,2024,3,March,1
+ORD0432,2024-03-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0743,Male,Beauty,Dove Body Lotion 400ml,1,345,345,Credit Card,2024,3,March,1
+ORD0505,2024-03-06,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0241,Male,Fashion,Fabindia Women's Kurta Set,1,3343,3343,UPI,2024,3,March,1
+ORD0207,2024-03-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0089,Male,Fashion,H&M Women's Handbag,2,4153,8306,UPI,2024,3,March,1
+ORD0374,2024-03-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0411,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,434,868,Cash,2024,3,March,1
+ORD0458,2024-03-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0500,Male,Beauty,Park Avenue Signature Perfume 100ml,1,1894,1894,EMI,2024,3,March,1
+ORD0721,2024-03-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0783,Male,Beauty,Biotique Bio Sunscreen SPF60,1,529,529,EMI,2024,3,March,1
+ORD0737,2024-03-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0648,Male,Beauty,L'Oreal Paris Revitalift Face Cream,2,1167,2334,Net Banking,2024,3,March,1
+ORD1014,2024-03-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0490,Male,Fashion,Adidas Women's Sports Shoes,4,3532,14128,Debit Card,2024,3,March,1
+ORD0255,2024-03-08,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0468,Male,Grocery,Britannia Digestive Biscuits Multipack,1,255,255,Cash,2024,3,March,1
+ORD0639,2024-03-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0781,Female,Grocery,Fresh Fruits Combo Basket,2,836,1672,Credit Card,2024,3,March,1
+ORD0937,2024-03-08,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0517,Female,Home Appliances,Kent Grand Plus RO Water Purifier,4,16220,64880,Debit Card,2024,3,March,1
+ORD0190,2024-03-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0560,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,3,3700,11100,UPI,2024,3,March,1
+ORD0130,2024-03-10,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0380,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,2,812,1624,UPI,2024,3,March,1
+ORD0369,2024-03-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0599,Male,Electronics,Apple iPhone 15,2,77365,154730,UPI,2024,3,March,1
+ORD1121,2024-03-10,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0528,Male,Fashion,Titan Raga Ladies Watch,4,6557,26228,EMI,2024,3,March,1
+ORD0320,2024-03-11,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0434,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,4,1255,5020,Credit Card,2024,3,March,1
+ORD0342,2024-03-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0772,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,2,635,1270,Cash,2024,3,March,1
+ORD0474,2024-03-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0717,Female,Home Appliances,Havells Ceiling Fan Premium,3,4285,12855,Net Banking,2024,3,March,1
+ORD0636,2024-03-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0723,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,4,889,3556,Debit Card,2024,3,March,1
+ORD0799,2024-03-11,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0382,Female,Fashion,Nike Running Shoes Men,1,3919,3919,Net Banking,2024,3,March,1
+ORD1039,2024-03-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0304,Male,Electronics,Sony Headphones WH-1000XM5,1,13259,13259,EMI,2024,3,March,1
+ORD1091,2024-03-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0495,Female,Beauty,Forest Essentials Luxury Face Wash,3,1423,4269,Credit Card,2024,3,March,1
+ORD0206,2024-03-12,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0506,Male,Fashion,Titan Raga Ladies Watch,2,8022,16044,Net Banking,2024,3,March,1
+ORD0429,2024-03-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0672,Female,Beauty,Nykaa Lipstick Set of 5,2,1328,2656,EMI,2024,3,March,1
+ORD0845,2024-03-12,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0585,Male,Grocery,Fresh Fruits Combo Basket,1,1137,1137,Cash,2024,3,March,1
+ORD0093,2024-03-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0170,Female,Grocery,Fresh Fruits Combo Basket,2,895,1790,UPI,2024,3,March,1
+ORD0218,2024-03-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0298,Female,Beauty,VLCC Anti Aging Serum 30ml,5,954,4770,Credit Card,2024,3,March,1
+ORD0501,2024-03-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0006,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,399,399,EMI,2024,3,March,1
+ORD0736,2024-03-13,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0020,Female,Beauty,Mamaearth Onion Hair Oil 250ml,1,423,423,EMI,2024,3,March,1
+ORD0986,2024-03-13,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0200,Female,Electronics,"Samsung 55"" Smart TV",1,51524,51524,Credit Card,2024,3,March,1
+ORD0150,2024-03-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0411,Male,Electronics,"Samsung 55"" Smart TV",3,48006,144018,Credit Card,2024,3,March,1
+ORD0187,2024-03-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0002,Female,Fashion,Puma Men's Track Pants,2,1883,3766,Cash,2024,3,March,1
+ORD0931,2024-03-14,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0497,Female,Electronics,JBL Portable Bluetooth Speaker,1,7334,7334,Credit Card,2024,3,March,1
+ORD0945,2024-03-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0787,Male,Electronics,Canon EOS 200D Camera,1,45544,45544,Debit Card,2024,3,March,1
+ORD0514,2024-03-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0496,Female,Electronics,Samsung Galaxy Tab S9,1,42593,42593,Debit Card,2024,3,March,1
+ORD0657,2024-03-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0684,Female,Fashion,Fabindia Women's Kurta Set,1,1600,1600,Credit Card,2024,3,March,1
+ORD1083,2024-03-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0304,Male,Grocery,Haldiram's Bhujia Sev 1kg,2,337,674,Credit Card,2024,3,March,1
+ORD1112,2024-03-15,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0232,Female,Electronics,Canon EOS 200D Camera,1,47281,47281,Cash,2024,3,March,1
+ORD1139,2024-03-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0632,Male,Electronics,"Samsung 55"" Smart TV",2,57463,114926,Debit Card,2024,3,March,1
+ORD0055,2024-03-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0251,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,418,836,EMI,2024,3,March,1
+ORD0181,2024-03-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0094,Male,Home Appliances,Morphy Richards OTG 60L,2,7218,14436,UPI,2024,3,March,1
+ORD0410,2024-03-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0265,Female,Beauty,L'Oreal Paris Revitalift Face Cream,1,789,789,UPI,2024,3,March,1
+ORD0839,2024-03-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0765,Female,Home Appliances,Philips Steam Iron 2400W,4,2852,11408,Cash,2024,3,March,1
+ORD1170,2024-03-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0294,Male,Beauty,VLCC Anti Aging Serum 30ml,2,815,1630,Cash,2024,3,March,1
+ORD1175,2024-03-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0739,Female,Home Appliances,Bajaj 750W Mixer Grinder,2,4866,9732,EMI,2024,3,March,1
+ORD0282,2024-03-17,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0635,Female,Home Appliances,Usha Table Fan 3 Speed,1,2312,2312,UPI,2024,3,March,1
+ORD0758,2024-03-17,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0006,Female,Beauty,Lakme Absolute Foundation SPF15,3,1281,3843,Net Banking,2024,3,March,1
+ORD0581,2024-03-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0548,Male,Electronics,LG Front Load Washing Machine,1,41244,41244,EMI,2024,3,March,1
+ORD0633,2024-03-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0403,Male,Electronics,Canon EOS 200D Camera,5,57062,285310,Net Banking,2024,3,March,1
+ORD0017,2024-03-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0166,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,304,304,Debit Card,2024,3,March,1
+ORD0251,2024-03-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0621,Female,Fashion,Arrow Men's Formal Trouser,3,2764,8292,EMI,2024,3,March,1
+ORD0792,2024-03-19,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0656,Female,Electronics,Dell Inspiron Laptop,1,58669,58669,EMI,2024,3,March,1
+ORD1009,2024-03-19,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0339,Female,Beauty,Forest Essentials Luxury Face Wash,1,2171,2171,Net Banking,2024,3,March,1
+ORD0043,2024-03-20,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0243,Male,Beauty,Biotique Bio Sunscreen SPF60,1,611,611,EMI,2024,3,March,1
+ORD0352,2024-03-20,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0401,Male,Fashion,Puma Men's Track Pants,1,1988,1988,Cash,2024,3,March,1
+ORD0590,2024-03-20,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0092,Male,Electronics,LG Front Load Washing Machine,2,54477,108954,EMI,2024,3,March,1
+ORD0611,2024-03-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0472,Female,Electronics,Dell Inspiron Laptop,4,57028,228112,Credit Card,2024,3,March,1
+ORD1161,2024-03-20,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0748,Female,Fashion,H&M Women's Handbag,2,2383,4766,UPI,2024,3,March,1
+ORD0205,2024-03-21,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0718,Male,Home Appliances,Havells Ceiling Fan Premium,1,3918,3918,Credit Card,2024,3,March,1
+ORD0371,2024-03-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0312,Male,Fashion,W Women's Casual Dress,1,2103,2103,Credit Card,2024,3,March,1
+ORD0606,2024-03-21,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0615,Female,Beauty,Dove Body Lotion 400ml,5,581,2905,Debit Card,2024,3,March,1
+ORD0631,2024-03-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0701,Female,Fashion,Raymond Men's Formal Shirt,5,1683,8415,Net Banking,2024,3,March,1
+ORD0825,2024-03-21,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0401,Female,Grocery,Nescafe Classic Coffee 200g,2,757,1514,Debit Card,2024,3,March,1
+ORD1188,2024-03-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0095,Female,Beauty,Biotique Bio Sunscreen SPF60,1,780,780,Net Banking,2024,3,March,1
+ORD0004,2024-03-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0349,Female,Electronics,Redmi Note 13 Pro,1,18837,18837,Cash,2024,3,March,1
+ORD0314,2024-03-22,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0437,Female,Fashion,Puma Men's Track Pants,1,2789,2789,EMI,2024,3,March,1
+ORD1088,2024-03-22,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0562,Female,Fashion,H&M Women's Handbag,3,3426,10278,UPI,2024,3,March,1
+ORD0179,2024-03-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0620,Male,Beauty,Lakme Absolute Foundation SPF15,2,1456,2912,Debit Card,2024,3,March,1
+ORD0537,2024-03-23,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0652,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,4,2965,11860,UPI,2024,3,March,1
+ORD0658,2024-03-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0626,Male,Beauty,Mamaearth Onion Hair Oil 250ml,4,584,2336,Cash,2024,3,March,1
+ORD0650,2024-03-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0127,Male,Electronics,Samsung Galaxy Tab S9,1,46892,46892,EMI,2024,3,March,1
+ORD1053,2024-03-24,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0447,Female,Home Appliances,Morphy Richards OTG 60L,3,11174,33522,EMI,2024,3,March,1
+ORD0210,2024-03-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0727,Male,Fashion,Arrow Men's Formal Trouser,3,2381,7143,Debit Card,2024,3,March,1
+ORD0028,2024-03-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0493,Male,Beauty,Lakme Absolute Foundation SPF15,1,968,968,UPI,2024,3,March,1
+ORD0357,2024-03-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0262,Male,Beauty,L'Oreal Paris Revitalift Face Cream,3,933,2799,Cash,2024,3,March,1
+ORD1150,2024-03-26,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0714,Male,Fashion,Titan Raga Ladies Watch,3,5498,16494,EMI,2024,3,March,1
+ORD0054,2024-03-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0291,Female,Electronics,Sony Headphones WH-1000XM5,1,13511,13511,Credit Card,2024,3,March,1
+ORD0755,2024-03-28,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0226,Female,Grocery,Fresh Fruits Combo Basket,2,774,1548,Net Banking,2024,3,March,1
+ORD0894,2024-03-28,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0472,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,771,1542,Net Banking,2024,3,March,1
+ORD1011,2024-03-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0567,Male,Electronics,Philips Air Fryer,1,9002,9002,Credit Card,2024,3,March,1
+ORD0168,2024-03-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0725,Female,Beauty,Himalaya Purifying Neem Face Wash,2,333,666,Debit Card,2024,3,March,1
+ORD0414,2024-03-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0148,Female,Electronics,Redmi Note 13 Pro,1,23656,23656,EMI,2024,3,March,1
+ORD0424,2024-03-29,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0009,Male,Fashion,Raymond Men's Formal Shirt,2,1763,3526,UPI,2024,3,March,1
+ORD0802,2024-03-29,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0030,Male,Fashion,Nike Running Shoes Men,1,6318,6318,Credit Card,2024,3,March,1
+ORD0242,2024-03-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0181,Male,Beauty,VLCC Anti Aging Serum 30ml,1,1207,1207,EMI,2024,3,March,1
+ORD0246,2024-03-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0655,Female,Home Appliances,Havells Ceiling Fan Premium,1,4343,4343,EMI,2024,3,March,1
+ORD0391,2024-03-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0752,Female,Electronics,"Samsung 55"" Smart TV",4,68003,272012,UPI,2024,3,March,1
+ORD0908,2024-03-30,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0516,Male,Home Appliances,Morphy Richards OTG 60L,1,10527,10527,Credit Card,2024,3,March,1
+ORD0301,2024-03-31,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0327,Female,Home Appliances,Kent Grand Plus RO Water Purifier,3,19717,59151,Debit Card,2024,3,March,1
+ORD0823,2024-03-31,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0799,Female,Beauty,Biotique Bio Sunscreen SPF60,2,651,1302,Debit Card,2024,3,March,1
+ORD0988,2024-03-31,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0104,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,2776,5552,Cash,2024,3,March,1
+ORD1163,2024-03-31,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0704,Male,Electronics,LG Front Load Washing Machine,1,45972,45972,EMI,2024,3,March,1
+ORD0599,2024-04-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0207,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,364,728,UPI,2024,4,April,2
+ORD0724,2024-04-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0504,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,851,851,Net Banking,2024,4,April,2
+ORD0882,2024-04-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0790,Female,Electronics,Sony Headphones WH-1000XM5,1,9334,9334,UPI,2024,4,April,2
+ORD0995,2024-04-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0383,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,18881,18881,UPI,2024,4,April,2
+ORD1000,2024-04-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0272,Male,Fashion,Fabindia Women's Kurta Set,3,2103,6309,Net Banking,2024,4,April,2
+ORD0303,2024-04-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0564,Male,Beauty,Park Avenue Signature Perfume 100ml,1,3250,3250,Debit Card,2024,4,April,2
+ORD0381,2024-04-02,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0612,Male,Electronics,Dell Inspiron Laptop,3,46919,140757,UPI,2024,4,April,2
+ORD0648,2024-04-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0713,Male,Fashion,W Women's Casual Dress,1,2723,2723,UPI,2024,4,April,2
+ORD0745,2024-04-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0627,Male,Grocery,Britannia Digestive Biscuits Multipack,2,339,678,Net Banking,2024,4,April,2
+ORD0810,2024-04-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0389,Female,Fashion,Adidas Women's Sports Shoes,1,4669,4669,Debit Card,2024,4,April,2
+ORD0837,2024-04-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0643,Male,Grocery,Fortune Refined Sunflower Oil 5L,5,869,4345,EMI,2024,4,April,2
+ORD0942,2024-04-02,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0282,Male,Fashion,Titan Raga Ladies Watch,1,8639,8639,Net Banking,2024,4,April,2
+ORD0946,2024-04-02,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0060,Female,Fashion,W Women's Casual Dress,2,2091,4182,Debit Card,2024,4,April,2
+ORD1101,2024-04-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0712,Male,Electronics,Samsung Galaxy Tab S9,1,45298,45298,Credit Card,2024,4,April,2
+ORD1115,2024-04-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0760,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,732,732,Net Banking,2024,4,April,2
+ORD1138,2024-04-02,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0606,Male,Fashion,Nike Running Shoes Men,1,5143,5143,Credit Card,2024,4,April,2
+ORD0580,2024-04-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0114,Female,Grocery,Britannia Digestive Biscuits Multipack,1,375,375,Cash,2024,4,April,2
+ORD0777,2024-04-03,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0726,Male,Electronics,LG Front Load Washing Machine,5,33348,166740,Net Banking,2024,4,April,2
+ORD1062,2024-04-03,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0113,Female,Grocery,Fortune Refined Sunflower Oil 5L,1,747,747,EMI,2024,4,April,2
+ORD1063,2024-04-03,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0197,Female,Beauty,VLCC Anti Aging Serum 30ml,2,1151,2302,Net Banking,2024,4,April,2
+ORD0404,2024-04-04,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0391,Female,Electronics,"Samsung 55"" Smart TV",2,53627,107254,Debit Card,2024,4,April,2
+ORD0641,2024-04-04,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0504,Female,Electronics,Sony Headphones WH-1000XM5,1,9853,9853,Cash,2024,4,April,2
+ORD0806,2024-04-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0030,Male,Electronics,Dell Inspiron Laptop,1,63997,63997,Credit Card,2024,4,April,2
+ORD1162,2024-04-04,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0181,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,744,744,Credit Card,2024,4,April,2
+ORD0202,2024-04-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0397,Male,Fashion,Raymond Men's Formal Shirt,1,2113,2113,Net Banking,2024,4,April,2
+ORD1128,2024-04-05,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0010,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,721,1442,Credit Card,2024,4,April,2
+ORD0108,2024-04-06,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0245,Female,Fashion,Puma Men's Track Pants,1,1589,1589,UPI,2024,4,April,2
+ORD0270,2024-04-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0602,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,5,188,940,Cash,2024,4,April,2
+ORD0347,2024-04-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0303,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,8027,8027,Credit Card,2024,4,April,2
+ORD0770,2024-04-06,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0469,Male,Electronics,Apple iPhone 15,5,74724,373620,Cash,2024,4,April,2
+ORD1006,2024-04-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0715,Female,Fashion,H&M Women's Handbag,1,4287,4287,Credit Card,2024,4,April,2
+ORD0030,2024-04-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0060,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,2,32821,65642,Net Banking,2024,4,April,2
+ORD0049,2024-04-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0726,Female,Electronics,JBL Portable Bluetooth Speaker,1,4614,4614,Cash,2024,4,April,2
+ORD0105,2024-04-07,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0521,Male,Beauty,Nykaa Lipstick Set of 5,1,1324,1324,Net Banking,2024,4,April,2
+ORD0193,2024-04-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0800,Male,Beauty,Dove Body Lotion 400ml,1,439,439,Debit Card,2024,4,April,2
+ORD0440,2024-04-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0005,Male,Fashion,W Women's Casual Dress,1,2439,2439,UPI,2024,4,April,2
+ORD0646,2024-04-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0408,Female,Home Appliances,Usha Table Fan 3 Speed,1,2444,2444,Debit Card,2024,4,April,2
+ORD0863,2024-04-07,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0273,Female,Home Appliances,Philips Steam Iron 2400W,2,2466,4932,Credit Card,2024,4,April,2
+ORD1151,2024-04-07,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0408,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1397,1397,UPI,2024,4,April,2
+ORD0026,2024-04-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0460,Male,Grocery,Britannia Digestive Biscuits Multipack,1,368,368,Cash,2024,4,April,2
+ORD0174,2024-04-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0141,Male,Electronics,LG Front Load Washing Machine,3,48635,145905,EMI,2024,4,April,2
+ORD0178,2024-04-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0585,Female,Grocery,Britannia Digestive Biscuits Multipack,2,347,694,UPI,2024,4,April,2
+ORD0211,2024-04-10,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0565,Female,Electronics,Dell Inspiron Laptop,2,65133,130266,Net Banking,2024,4,April,2
+ORD0363,2024-04-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0560,Male,Electronics,Canon EOS 200D Camera,1,40783,40783,Debit Card,2024,4,April,2
+ORD0483,2024-04-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0199,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,5,383,1915,EMI,2024,4,April,2
+ORD0559,2024-04-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0757,Male,Grocery,Organic India Premium Basmati Rice 5kg,2,540,1080,Credit Card,2024,4,April,2
+ORD0784,2024-04-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0552,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,425,425,UPI,2024,4,April,2
+ORD0119,2024-04-11,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0495,Male,Fashion,Titan Raga Ladies Watch,2,7940,15880,EMI,2024,4,April,2
+ORD0162,2024-04-11,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0157,Male,Electronics,Samsung Galaxy Tab S9,3,50202,150606,Net Banking,2024,4,April,2
+ORD0630,2024-04-11,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0469,Male,Electronics,JBL Portable Bluetooth Speaker,1,5497,5497,UPI,2024,4,April,2
+ORD0192,2024-04-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0324,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1142,1142,EMI,2024,4,April,2
+ORD0238,2024-04-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0278,Female,Electronics,Philips Air Fryer,1,9807,9807,Cash,2024,4,April,2
+ORD0449,2024-04-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0420,Female,Electronics,JBL Portable Bluetooth Speaker,4,7066,28264,EMI,2024,4,April,2
+ORD0540,2024-04-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0531,Female,Electronics,Philips Air Fryer,2,9182,18364,Credit Card,2024,4,April,2
+ORD0754,2024-04-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0033,Male,Fashion,Fabindia Women's Kurta Set,2,3244,6488,UPI,2024,4,April,2
+ORD0272,2024-04-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0246,Female,Home Appliances,Philips Steam Iron 2400W,2,3154,6308,Debit Card,2024,4,April,2
+ORD0316,2024-04-15,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0721,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,995,995,Credit Card,2024,4,April,2
+ORD0400,2024-04-15,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0420,Female,Grocery,Britannia Digestive Biscuits Multipack,1,310,310,UPI,2024,4,April,2
+ORD0494,2024-04-15,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0720,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,447,447,UPI,2024,4,April,2
+ORD0532,2024-04-15,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0324,Female,Fashion,Nike Running Shoes Men,2,5245,10490,Debit Card,2024,4,April,2
+ORD0551,2024-04-15,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0256,Female,Electronics,LG Front Load Washing Machine,4,35928,143712,EMI,2024,4,April,2
+ORD0601,2024-04-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0082,Female,Home Appliances,Voltas 1.5T 3 Star Split AC,2,37913,75826,UPI,2024,4,April,2
+ORD0803,2024-04-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0081,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,369,369,UPI,2024,4,April,2
+ORD1005,2024-04-17,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0529,Female,Home Appliances,Kent Grand Plus RO Water Purifier,3,17790,53370,Debit Card,2024,4,April,2
+ORD0271,2024-04-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0760,Male,Home Appliances,Kent Grand Plus RO Water Purifier,2,16987,33974,EMI,2024,4,April,2
+ORD0286,2024-04-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0709,Female,Fashion,Fabindia Women's Kurta Set,4,2901,11604,Net Banking,2024,4,April,2
+ORD0335,2024-04-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0331,Female,Fashion,Titan Raga Ladies Watch,2,6069,12138,UPI,2024,4,April,2
+ORD0409,2024-04-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0130,Male,Grocery,Nescafe Classic Coffee 200g,5,651,3255,EMI,2024,4,April,2
+ORD1192,2024-04-18,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0775,Female,Electronics,Sony Headphones WH-1000XM5,4,13229,52916,Credit Card,2024,4,April,2
+ORD0062,2024-04-19,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0418,Female,Grocery,Nescafe Classic Coffee 200g,1,615,615,UPI,2024,4,April,2
+ORD0608,2024-04-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0564,Female,Fashion,H&M Women's Handbag,5,3832,19160,Cash,2024,4,April,2
+ORD0610,2024-04-19,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0023,Female,Beauty,Himalaya Purifying Neem Face Wash,2,342,684,Net Banking,2024,4,April,2
+ORD0809,2024-04-19,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0725,Female,Fashion,Titan Raga Ladies Watch,2,6516,13032,Cash,2024,4,April,2
+ORD0923,2024-04-19,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0566,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,611,611,Net Banking,2024,4,April,2
+ORD0221,2024-04-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0050,Male,Fashion,Titan Raga Ladies Watch,2,11904,23808,UPI,2024,4,April,2
+ORD0469,2024-04-20,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0196,Female,Electronics,Canon EOS 200D Camera,4,41523,166092,EMI,2024,4,April,2
+ORD0787,2024-04-20,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0455,Female,Home Appliances,Usha Table Fan 3 Speed,3,1835,5505,UPI,2024,4,April,2
+ORD0252,2024-04-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0697,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1260,1260,Net Banking,2024,4,April,2
+ORD0256,2024-04-21,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0047,Female,Fashion,Fabindia Women's Kurta Set,5,2608,13040,Cash,2024,4,April,2
+ORD0263,2024-04-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0795,Male,Electronics,Dell Inspiron Laptop,3,52673,158019,EMI,2024,4,April,2
+ORD0279,2024-04-21,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0383,Male,Grocery,Fresh Fruits Combo Basket,2,1094,2188,Cash,2024,4,April,2
+ORD0997,2024-04-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0387,Male,Beauty,Dove Body Lotion 400ml,2,430,860,Credit Card,2024,4,April,2
+ORD0987,2024-04-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0737,Male,Fashion,Arrow Men's Formal Trouser,1,2303,2303,Cash,2024,4,April,2
+ORD0045,2024-04-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0472,Female,Fashion,Adidas Women's Sports Shoes,1,3913,3913,Credit Card,2024,4,April,2
+ORD0309,2024-04-23,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0532,Male,Grocery,Nescafe Classic Coffee 200g,3,718,2154,Net Banking,2024,4,April,2
+ORD0467,2024-04-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0364,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,239,239,Credit Card,2024,4,April,2
+ORD0617,2024-04-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0690,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,694,1388,Credit Card,2024,4,April,2
+ORD0800,2024-04-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0573,Male,Fashion,Fabindia Women's Kurta Set,3,1738,5214,Cash,2024,4,April,2
+ORD0466,2024-04-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0340,Female,Home Appliances,Morphy Richards OTG 60L,1,10707,10707,EMI,2024,4,April,2
+ORD0968,2024-04-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0431,Female,Fashion,Puma Men's Track Pants,1,1898,1898,Net Banking,2024,4,April,2
+ORD1079,2024-04-24,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0298,Male,Electronics,Redmi Note 13 Pro,2,24066,48132,Credit Card,2024,4,April,2
+ORD1171,2024-04-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0289,Female,Electronics,Redmi Note 13 Pro,1,18969,18969,Cash,2024,4,April,2
+ORD0397,2024-04-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0076,Male,Fashion,W Women's Casual Dress,5,2334,11670,Cash,2024,4,April,2
+ORD0405,2024-04-25,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0578,Male,Electronics,LG Front Load Washing Machine,2,34808,69616,Net Banking,2024,4,April,2
+ORD0423,2024-04-25,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0276,Female,Grocery,Organic India Premium Basmati Rice 5kg,4,692,2768,EMI,2024,4,April,2
+ORD0965,2024-04-26,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0747,Female,Electronics,"Samsung 55"" Smart TV",2,67707,135414,Net Banking,2024,4,April,2
+ORD0526,2024-04-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0136,Male,Electronics,JBL Portable Bluetooth Speaker,2,7131,14262,Credit Card,2024,4,April,2
+ORD0756,2024-04-27,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0535,Female,Beauty,Forest Essentials Luxury Face Wash,2,1805,3610,UPI,2024,4,April,2
+ORD0515,2024-04-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0212,Female,Fashion,H&M Women's Handbag,1,2190,2190,EMI,2024,4,April,2
+ORD0612,2024-04-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0308,Male,Grocery,Fresh Fruits Combo Basket,3,822,2466,EMI,2024,4,April,2
+ORD0962,2024-04-29,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0372,Male,Fashion,Titan Raga Ladies Watch,1,6712,6712,EMI,2024,4,April,2
+ORD1038,2024-04-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0778,Male,Fashion,Puma Men's Track Pants,2,1998,3996,Cash,2024,4,April,2
+ORD0061,2024-04-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0328,Male,Electronics,Sony Headphones WH-1000XM5,2,11137,22274,EMI,2024,4,April,2
+ORD0113,2024-04-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0295,Male,Home Appliances,Philips Steam Iron 2400W,3,2401,7203,EMI,2024,4,April,2
+ORD0463,2024-04-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0455,Female,Electronics,Samsung Galaxy Tab S9,1,49649,49649,UPI,2024,4,April,2
+ORD0711,2024-04-30,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0541,Male,Fashion,Fabindia Women's Kurta Set,1,3481,3481,Credit Card,2024,4,April,2
+ORD0746,2024-04-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0543,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1159,1159,EMI,2024,4,April,2
+ORD0847,2024-04-30,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0224,Male,Electronics,Sony Headphones WH-1000XM5,2,10249,20498,Debit Card,2024,4,April,2
+ORD0865,2024-04-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0255,Female,Grocery,Haldiram's Bhujia Sev 1kg,1,321,321,Credit Card,2024,4,April,2
+ORD1045,2024-04-30,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0437,Female,Fashion,Adidas Women's Sports Shoes,2,4003,8006,Net Banking,2024,4,April,2
+ORD0023,2024-05-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0498,Male,Grocery,Fresh Fruits Combo Basket,2,1190,2380,UPI,2024,5,May,2
+ORD0365,2024-05-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0062,Male,Home Appliances,Bajaj 750W Mixer Grinder,4,2679,10716,Net Banking,2024,5,May,2
+ORD0846,2024-05-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0792,Female,Fashion,Titan Raga Ladies Watch,1,11039,11039,EMI,2024,5,May,2
+ORD1135,2024-05-01,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0351,Female,Beauty,Lakme Absolute Foundation SPF15,2,1244,2488,Debit Card,2024,5,May,2
+ORD0579,2024-05-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0628,Female,Fashion,Arrow Men's Formal Trouser,2,2350,4700,Cash,2024,5,May,2
+ORD0897,2024-05-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0642,Male,Electronics,Samsung Galaxy Tab S9,2,39855,79710,Cash,2024,5,May,2
+ORD1075,2024-05-03,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0175,Male,Electronics,"Samsung 55"" Smart TV",4,50250,201000,Debit Card,2024,5,May,2
+ORD0134,2024-05-04,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0579,Male,Electronics,JBL Portable Bluetooth Speaker,2,4697,9394,Credit Card,2024,5,May,2
+ORD0899,2024-05-04,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0584,Female,Electronics,"Samsung 55"" Smart TV",2,48364,96728,EMI,2024,5,May,2
+ORD1042,2024-05-04,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0056,Male,Home Appliances,Crompton 25L Geyser Water Heater,4,8490,33960,Net Banking,2024,5,May,2
+ORD0645,2024-05-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0406,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1291,2582,Cash,2024,5,May,2
+ORD0656,2024-05-05,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0285,Male,Electronics,Apple iPhone 15,2,70902,141804,Cash,2024,5,May,2
+ORD1017,2024-05-06,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0583,Female,Grocery,Fresh Fruits Combo Basket,3,640,1920,Debit Card,2024,5,May,2
+ORD0331,2024-05-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0330,Male,Home Appliances,Philips Steam Iron 2400W,1,3202,3202,EMI,2024,5,May,2
+ORD1046,2024-05-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0591,Female,Beauty,Forest Essentials Luxury Face Wash,4,1478,5912,UPI,2024,5,May,2
+ORD0122,2024-05-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0739,Male,Grocery,Organic India Premium Basmati Rice 5kg,3,608,1824,Cash,2024,5,May,2
+ORD0482,2024-05-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0800,Female,Home Appliances,Morphy Richards OTG 60L,2,11820,23640,Net Banking,2024,5,May,2
+ORD1024,2024-05-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0140,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,424,848,Cash,2024,5,May,2
+ORD0068,2024-05-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0482,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,1,37733,37733,Cash,2024,5,May,2
+ORD0189,2024-05-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0366,Male,Fashion,Fabindia Women's Kurta Set,2,3080,6160,Debit Card,2024,5,May,2
+ORD0805,2024-05-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0309,Male,Home Appliances,Bajaj 750W Mixer Grinder,1,4964,4964,Credit Card,2024,5,May,2
+ORD0966,2024-05-09,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0465,Male,Beauty,Lakme Absolute Foundation SPF15,2,1130,2260,UPI,2024,5,May,2
+ORD0117,2024-05-10,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0683,Male,Beauty,Park Avenue Signature Perfume 100ml,2,2389,4778,Credit Card,2024,5,May,2
+ORD0144,2024-05-10,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0157,Female,Electronics,LG Front Load Washing Machine,2,35054,70108,EMI,2024,5,May,2
+ORD0078,2024-05-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0611,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1385,1385,Credit Card,2024,5,May,2
+ORD0496,2024-05-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0462,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,649,1298,Net Banking,2024,5,May,2
+ORD0626,2024-05-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0638,Male,Grocery,Organic India Premium Basmati Rice 5kg,2,642,1284,EMI,2024,5,May,2
+ORD0662,2024-05-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0639,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,688,1376,EMI,2024,5,May,2
+ORD0685,2024-05-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0402,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,4,250,1000,Debit Card,2024,5,May,2
+ORD0925,2024-05-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0363,Male,Electronics,LG Front Load Washing Machine,1,46704,46704,EMI,2024,5,May,2
+ORD0947,2024-05-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0124,Male,Fashion,Titan Raga Ladies Watch,1,9800,9800,Net Banking,2024,5,May,2
+ORD0533,2024-05-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0434,Female,Grocery,Nescafe Classic Coffee 200g,1,793,793,Net Banking,2024,5,May,2
+ORD0708,2024-05-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0485,Male,Grocery,Britannia Digestive Biscuits Multipack,1,256,256,Cash,2024,5,May,2
+ORD0874,2024-05-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0479,Female,Electronics,Samsung Galaxy Tab S9,2,36336,72672,EMI,2024,5,May,2
+ORD0956,2024-05-13,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0725,Female,Fashion,W Women's Casual Dress,1,2499,2499,Net Banking,2024,5,May,2
+ORD0350,2024-05-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0062,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1292,2584,EMI,2024,5,May,2
+ORD1137,2024-05-14,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0254,Female,Electronics,LG Front Load Washing Machine,3,54975,164925,Net Banking,2024,5,May,2
+ORD0029,2024-05-15,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0466,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,3,1238,3714,Credit Card,2024,5,May,2
+ORD0092,2024-05-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0641,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1015,2030,Debit Card,2024,5,May,2
+ORD0137,2024-05-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0760,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,420,840,Debit Card,2024,5,May,2
+ORD0452,2024-05-15,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0103,Male,Beauty,Nykaa Lipstick Set of 5,3,1268,3804,Debit Card,2024,5,May,2
+ORD0930,2024-05-15,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0652,Female,Beauty,Park Avenue Signature Perfume 100ml,5,3298,16490,Credit Card,2024,5,May,2
+ORD0106,2024-05-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0290,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,2,13406,26812,Credit Card,2024,5,May,2
+ORD0910,2024-05-16,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0707,Male,Home Appliances,Kent Grand Plus RO Water Purifier,2,21545,43090,Cash,2024,5,May,2
+ORD0332,2024-05-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0385,Female,Electronics,LG Front Load Washing Machine,2,45200,90400,Debit Card,2024,5,May,2
+ORD0355,2024-05-17,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0121,Male,Fashion,Puma Men's Track Pants,2,2057,4114,Debit Card,2024,5,May,2
+ORD1193,2024-05-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0584,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,311,311,Cash,2024,5,May,2
+ORD0360,2024-05-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0586,Female,Electronics,"Samsung 55"" Smart TV",1,50876,50876,Net Banking,2024,5,May,2
+ORD0642,2024-05-18,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0228,Male,Home Appliances,Bajaj 750W Mixer Grinder,4,3225,12900,UPI,2024,5,May,2
+ORD0764,2024-05-18,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0628,Male,Home Appliances,Bajaj 750W Mixer Grinder,3,3875,11625,Cash,2024,5,May,2
+ORD0573,2024-05-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0139,Male,Grocery,Haldiram's Bhujia Sev 1kg,3,461,1383,Net Banking,2024,5,May,2
+ORD0796,2024-05-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0652,Female,Electronics,Dell Inspiron Laptop,2,62354,124708,Cash,2024,5,May,2
+ORD0953,2024-05-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0697,Female,Beauty,Forest Essentials Luxury Face Wash,3,1799,5397,Debit Card,2024,5,May,2
+ORD0236,2024-05-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0588,Female,Beauty,VLCC Anti Aging Serum 30ml,5,1053,5265,Credit Card,2024,5,May,2
+ORD0553,2024-05-20,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0783,Female,Fashion,Titan Raga Ladies Watch,1,6050,6050,UPI,2024,5,May,2
+ORD0967,2024-05-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0531,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1288,1288,EMI,2024,5,May,2
+ORD1085,2024-05-20,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0724,Female,Grocery,Fortune Refined Sunflower Oil 5L,1,826,826,UPI,2024,5,May,2
+ORD0083,2024-05-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0779,Female,Beauty,Forest Essentials Luxury Face Wash,1,1503,1503,Credit Card,2024,5,May,2
+ORD0261,2024-05-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0743,Male,Electronics,Canon EOS 200D Camera,1,40512,40512,Cash,2024,5,May,2
+ORD0298,2024-05-21,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0496,Male,Fashion,Adidas Women's Sports Shoes,2,5952,11904,Net Banking,2024,5,May,2
+ORD0632,2024-05-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0641,Female,Beauty,Lakme Absolute Foundation SPF15,4,1368,5472,Credit Card,2024,5,May,2
+ORD0678,2024-05-21,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0792,Female,Grocery,Britannia Digestive Biscuits Multipack,1,288,288,Cash,2024,5,May,2
+ORD0723,2024-05-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0392,Female,Fashion,Levi's Men's Slim Fit Jeans,5,3557,17785,Debit Card,2024,5,May,2
+ORD0097,2024-05-22,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0600,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,323,646,UPI,2024,5,May,2
+ORD0757,2024-05-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0439,Male,Fashion,Puma Men's Track Pants,1,2686,2686,Net Banking,2024,5,May,2
+ORD0818,2024-05-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0466,Male,Electronics,Samsung Galaxy Tab S9,1,51294,51294,Credit Card,2024,5,May,2
+ORD1034,2024-05-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0378,Male,Electronics,Sony Headphones WH-1000XM5,1,11367,11367,Net Banking,2024,5,May,2
+ORD1176,2024-05-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0331,Male,Electronics,Canon EOS 200D Camera,1,51554,51554,UPI,2024,5,May,2
+ORD0038,2024-05-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0735,Female,Fashion,Raymond Men's Formal Shirt,2,2235,4470,Cash,2024,5,May,2
+ORD0448,2024-05-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0109,Female,Electronics,Sony Headphones WH-1000XM5,1,14373,14373,Net Banking,2024,5,May,2
+ORD0036,2024-05-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0557,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,904,1808,Net Banking,2024,5,May,2
+ORD0876,2024-05-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0173,Female,Grocery,Fresh Fruits Combo Basket,2,817,1634,Cash,2024,5,May,2
+ORD0883,2024-05-25,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0670,Male,Electronics,Samsung Galaxy Tab S9,3,49167,147501,Debit Card,2024,5,May,2
+ORD0935,2024-05-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0758,Female,Electronics,JBL Portable Bluetooth Speaker,1,5856,5856,Cash,2024,5,May,2
+ORD0203,2024-05-26,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0503,Male,Electronics,LG Front Load Washing Machine,1,46812,46812,EMI,2024,5,May,2
+ORD0222,2024-05-26,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0111,Female,Electronics,Dell Inspiron Laptop,1,68838,68838,UPI,2024,5,May,2
+ORD1120,2024-05-26,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0505,Male,Beauty,VLCC Anti Aging Serum 30ml,2,1393,2786,EMI,2024,5,May,2
+ORD1186,2024-05-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0062,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,857,857,UPI,2024,5,May,2
+ORD0481,2024-05-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0049,Female,Fashion,W Women's Casual Dress,1,2930,2930,EMI,2024,5,May,2
+ORD0715,2024-05-27,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0460,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,5,1249,6245,Cash,2024,5,May,2
+ORD0237,2024-05-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0732,Male,Fashion,H&M Women's Handbag,3,3050,9150,Credit Card,2024,5,May,2
+ORD0243,2024-05-28,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0010,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,402,402,EMI,2024,5,May,2
+ORD0504,2024-05-28,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0257,Male,Electronics,Philips Air Fryer,5,8991,44955,Debit Card,2024,5,May,2
+ORD0512,2024-05-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0514,Male,Fashion,Arrow Men's Formal Trouser,2,1821,3642,Net Banking,2024,5,May,2
+ORD0773,2024-05-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0023,Male,Home Appliances,Havells Ceiling Fan Premium,2,4375,8750,Debit Card,2024,5,May,2
+ORD0080,2024-05-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0709,Male,Fashion,Titan Raga Ladies Watch,2,8023,16046,Net Banking,2024,5,May,2
+ORD0772,2024-05-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0699,Male,Grocery,Nescafe Classic Coffee 200g,3,713,2139,Cash,2024,5,May,2
+ORD0821,2024-05-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0503,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1179,1179,Cash,2024,5,May,2
+ORD1104,2024-05-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0456,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,4,216,864,Debit Card,2024,5,May,2
+ORD1181,2024-05-30,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0565,Female,Fashion,Adidas Women's Sports Shoes,3,3228,9684,Cash,2024,5,May,2
+ORD0120,2024-05-31,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0675,Female,Fashion,Titan Raga Ladies Watch,3,10618,31854,Cash,2024,5,May,2
+ORD0781,2024-05-31,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0297,Male,Home Appliances,Kent Grand Plus RO Water Purifier,2,17774,35548,EMI,2024,5,May,2
+ORD0064,2024-06-01,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0430,Male,Grocery,Britannia Digestive Biscuits Multipack,2,361,722,UPI,2024,6,June,2
+ORD0235,2024-06-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0305,Female,Home Appliances,Kent Grand Plus RO Water Purifier,2,17597,35194,Net Banking,2024,6,June,2
+ORD0260,2024-06-01,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0737,Female,Grocery,Fortune Refined Sunflower Oil 5L,2,763,1526,Credit Card,2024,6,June,2
+ORD0428,2024-06-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0530,Male,Beauty,Mamaearth Onion Hair Oil 250ml,2,606,1212,EMI,2024,6,June,2
+ORD1103,2024-06-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0558,Male,Grocery,Organic India Premium Basmati Rice 5kg,1,577,577,Net Banking,2024,6,June,2
+ORD0037,2024-06-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0107,Male,Fashion,Fabindia Women's Kurta Set,2,3020,6040,Debit Card,2024,6,June,2
+ORD0265,2024-06-02,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0571,Male,Grocery,Nescafe Classic Coffee 200g,2,742,1484,Debit Card,2024,6,June,2
+ORD0659,2024-06-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0389,Male,Home Appliances,Havells Ceiling Fan Premium,1,3265,3265,Credit Card,2024,6,June,2
+ORD0666,2024-06-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0332,Male,Electronics,Redmi Note 13 Pro,1,20796,20796,Net Banking,2024,6,June,2
+ORD0888,2024-06-02,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0131,Female,Home Appliances,Havells Ceiling Fan Premium,1,4751,4751,Cash,2024,6,June,2
+ORD1106,2024-06-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0221,Male,Grocery,Fortune Refined Sunflower Oil 5L,1,851,851,Credit Card,2024,6,June,2
+ORD1130,2024-06-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0187,Female,Electronics,Samsung Galaxy Tab S9,1,49396,49396,Debit Card,2024,6,June,2
+ORD0084,2024-06-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0547,Male,Fashion,Levi's Men's Slim Fit Jeans,1,4766,4766,Credit Card,2024,6,June,2
+ORD0688,2024-06-03,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0411,Female,Fashion,Adidas Women's Sports Shoes,1,5244,5244,UPI,2024,6,June,2
+ORD0791,2024-06-03,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0312,Female,Grocery,Haldiram's Bhujia Sev 1kg,1,357,357,Cash,2024,6,June,2
+ORD0695,2024-06-04,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0446,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,404,808,Net Banking,2024,6,June,2
+ORD0775,2024-06-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0314,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,7983,7983,Debit Card,2024,6,June,2
+ORD0934,2024-06-04,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0029,Male,Electronics,Philips Air Fryer,1,8455,8455,Debit Card,2024,6,June,2
+ORD0625,2024-06-05,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0024,Female,Fashion,Arrow Men's Formal Trouser,1,2233,2233,Net Banking,2024,6,June,2
+ORD0018,2024-06-06,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0247,Male,Electronics,Samsung Galaxy Tab S9,5,37267,186335,Net Banking,2024,6,June,2
+ORD0273,2024-06-06,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0526,Female,Grocery,Haldiram's Bhujia Sev 1kg,3,494,1482,Credit Card,2024,6,June,2
+ORD0433,2024-06-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0340,Female,Fashion,Raymond Men's Formal Shirt,4,2149,8596,UPI,2024,6,June,2
+ORD0653,2024-06-06,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0788,Female,Fashion,Nike Running Shoes Men,4,3981,15924,Credit Card,2024,6,June,2
+ORD0172,2024-06-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0659,Female,Home Appliances,Havells Ceiling Fan Premium,2,3382,6764,UPI,2024,6,June,2
+ORD0684,2024-06-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0728,Female,Grocery,Fortune Refined Sunflower Oil 5L,4,736,2944,Net Banking,2024,6,June,2
+ORD0940,2024-06-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0127,Male,Electronics,Philips Air Fryer,2,9438,18876,Cash,2024,6,June,2
+ORD1194,2024-06-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0366,Female,Beauty,Himalaya Purifying Neem Face Wash,1,249,249,UPI,2024,6,June,2
+ORD0250,2024-06-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0655,Female,Fashion,Adidas Women's Sports Shoes,5,3897,19485,UPI,2024,6,June,2
+ORD0677,2024-06-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0777,Female,Grocery,Fortune Refined Sunflower Oil 5L,1,782,782,Debit Card,2024,6,June,2
+ORD0706,2024-06-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0352,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1363,2726,EMI,2024,6,June,2
+ORD0979,2024-06-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0526,Female,Fashion,Arrow Men's Formal Trouser,1,2098,2098,Debit Card,2024,6,June,2
+ORD0459,2024-06-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0695,Male,Beauty,Dove Body Lotion 400ml,2,565,1130,EMI,2024,6,June,2
+ORD0844,2024-06-09,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0066,Female,Beauty,L'Oreal Paris Revitalift Face Cream,4,1106,4424,EMI,2024,6,June,2
+ORD0973,2024-06-09,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0711,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,1,39240,39240,Net Banking,2024,6,June,2
+ORD1110,2024-06-10,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0445,Female,Electronics,Philips Air Fryer,1,7027,7027,Cash,2024,6,June,2
+ORD0487,2024-06-11,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0189,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,2851,5702,UPI,2024,6,June,2
+ORD0785,2024-06-11,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0524,Male,Beauty,Dove Body Lotion 400ml,1,503,503,UPI,2024,6,June,2
+ORD0227,2024-06-12,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0632,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1324,2648,UPI,2024,6,June,2
+ORD0241,2024-06-13,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0061,Male,Grocery,Fortune Refined Sunflower Oil 5L,3,836,2508,Cash,2024,6,June,2
+ORD0597,2024-06-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0675,Female,Electronics,Samsung Galaxy Tab S9,1,53070,53070,Debit Card,2024,6,June,2
+ORD0622,2024-06-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0672,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,2716,5432,UPI,2024,6,June,2
+ORD0826,2024-06-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0605,Male,Electronics,Redmi Note 13 Pro,3,20857,62571,Net Banking,2024,6,June,2
+ORD1043,2024-06-13,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0645,Male,Electronics,Samsung Galaxy Tab S9,5,37293,186465,Cash,2024,6,June,2
+ORD0516,2024-06-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0534,Female,Home Appliances,Usha Table Fan 3 Speed,2,2685,5370,Credit Card,2024,6,June,2
+ORD0598,2024-06-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0330,Male,Electronics,LG Front Load Washing Machine,3,33434,100302,Credit Card,2024,6,June,2
+ORD0866,2024-06-14,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0408,Male,Home Appliances,Philips Steam Iron 2400W,2,3707,7414,Cash,2024,6,June,2
+ORD1033,2024-06-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0412,Female,Electronics,Sony Headphones WH-1000XM5,1,11758,11758,EMI,2024,6,June,2
+ORD0613,2024-06-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0178,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,2,8781,17562,Debit Card,2024,6,June,2
+ORD1099,2024-06-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0551,Male,Fashion,Levi's Men's Slim Fit Jeans,2,4112,8224,Net Banking,2024,6,June,2
+ORD1157,2024-06-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0723,Female,Home Appliances,Philips Steam Iron 2400W,1,3452,3452,Cash,2024,6,June,2
+ORD0128,2024-06-16,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0227,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,479,479,UPI,2024,6,June,2
+ORD0219,2024-06-16,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0739,Female,Electronics,Apple iPhone 15,5,78163,390815,UPI,2024,6,June,2
+ORD0820,2024-06-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0637,Male,Home Appliances,Havells Ceiling Fan Premium,3,5016,15048,Credit Card,2024,6,June,2
+ORD0135,2024-06-17,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0611,Male,Fashion,Nike Running Shoes Men,2,4032,8064,Credit Card,2024,6,June,2
+ORD0300,2024-06-17,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0441,Male,Fashion,Titan Raga Ladies Watch,1,10695,10695,Debit Card,2024,6,June,2
+ORD0635,2024-06-17,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0135,Male,Grocery,Fresh Fruits Combo Basket,2,1154,2308,Credit Card,2024,6,June,2
+ORD0878,2024-06-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0698,Male,Fashion,Titan Raga Ladies Watch,3,5868,17604,Credit Card,2024,6,June,2
+ORD0957,2024-06-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0709,Male,Grocery,Organic India Premium Basmati Rice 5kg,1,693,693,Cash,2024,6,June,2
+ORD0047,2024-06-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0119,Female,Electronics,Dell Inspiron Laptop,1,46253,46253,UPI,2024,6,June,2
+ORD0289,2024-06-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0758,Male,Home Appliances,Bajaj 750W Mixer Grinder,3,4551,13653,Debit Card,2024,6,June,2
+ORD0495,2024-06-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0076,Male,Electronics,Dell Inspiron Laptop,1,63287,63287,Credit Card,2024,6,June,2
+ORD0707,2024-06-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0302,Female,Electronics,Philips Air Fryer,3,7490,22470,Net Banking,2024,6,June,2
+ORD1132,2024-06-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0165,Male,Beauty,Nykaa Lipstick Set of 5,2,1021,2042,Net Banking,2024,6,June,2
+ORD0044,2024-06-19,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0422,Male,Fashion,Fabindia Women's Kurta Set,4,2283,9132,UPI,2024,6,June,2
+ORD0098,2024-06-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0108,Male,Fashion,H&M Women's Handbag,2,3180,6360,UPI,2024,6,June,2
+ORD1002,2024-06-19,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0338,Female,Fashion,Raymond Men's Formal Shirt,3,1590,4770,Credit Card,2024,6,June,2
+ORD0170,2024-06-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0097,Female,Fashion,Titan Raga Ladies Watch,1,6231,6231,Net Banking,2024,6,June,2
+ORD0749,2024-06-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0777,Female,Electronics,"Samsung 55"" Smart TV",1,62608,62608,Cash,2024,6,June,2
+ORD0789,2024-06-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0605,Female,Electronics,Canon EOS 200D Camera,2,48956,97912,Net Banking,2024,6,June,2
+ORD0065,2024-06-21,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0415,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,3274,6548,UPI,2024,6,June,2
+ORD0125,2024-06-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0480,Male,Electronics,Sony Headphones WH-1000XM5,3,13540,40620,UPI,2024,6,June,2
+ORD0816,2024-06-22,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0414,Male,Fashion,Puma Men's Track Pants,1,2522,2522,EMI,2024,6,June,2
+ORD0989,2024-06-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0313,Female,Fashion,W Women's Casual Dress,1,3153,3153,Net Banking,2024,6,June,2
+ORD0074,2024-06-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0431,Female,Electronics,Redmi Note 13 Pro,4,23206,92824,UPI,2024,6,June,2
+ORD0086,2024-06-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0053,Female,Beauty,Park Avenue Signature Perfume 100ml,3,2033,6099,UPI,2024,6,June,2
+ORD0336,2024-06-24,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0781,Male,Electronics,Samsung Galaxy Tab S9,1,35533,35533,Credit Card,2024,6,June,2
+ORD0398,2024-06-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0385,Male,Home Appliances,Havells Ceiling Fan Premium,1,3381,3381,Net Banking,2024,6,June,2
+ORD0557,2024-06-24,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0511,Female,Fashion,W Women's Casual Dress,4,2547,10188,Debit Card,2024,6,June,2
+ORD0048,2024-06-25,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0322,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,959,959,Net Banking,2024,6,June,2
+ORD0081,2024-06-25,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0764,Female,Fashion,H&M Women's Handbag,1,3109,3109,Credit Card,2024,6,June,2
+ORD0502,2024-06-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0662,Male,Electronics,Sony Headphones WH-1000XM5,3,13053,39159,Credit Card,2024,6,June,2
+ORD0576,2024-06-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0548,Male,Grocery,Haldiram's Bhujia Sev 1kg,2,493,986,Cash,2024,6,June,2
+ORD0713,2024-06-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0271,Male,Electronics,Samsung Galaxy Tab S9,2,48066,96132,UPI,2024,6,June,2
+ORD0920,2024-06-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0287,Male,Home Appliances,Kent Grand Plus RO Water Purifier,1,20274,20274,Net Banking,2024,6,June,2
+ORD0903,2024-06-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0447,Male,Electronics,Sony Headphones WH-1000XM5,1,11844,11844,Credit Card,2024,6,June,2
+ORD0425,2024-06-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0224,Female,Fashion,Arrow Men's Formal Trouser,1,3077,3077,Cash,2024,6,June,2
+ORD0687,2024-06-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0131,Male,Fashion,Fabindia Women's Kurta Set,2,2167,4334,Cash,2024,6,June,2
+ORD0395,2024-06-28,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0111,Male,Electronics,Samsung Galaxy Tab S9,5,48751,243755,UPI,2024,6,June,2
+ORD0828,2024-06-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0251,Male,Fashion,Raymond Men's Formal Shirt,1,2413,2413,EMI,2024,6,June,2
+ORD0277,2024-06-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0738,Female,Electronics,JBL Portable Bluetooth Speaker,2,3481,6962,Cash,2024,6,June,2
+ORD0157,2024-06-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0760,Male,Grocery,Haldiram's Bhujia Sev 1kg,4,319,1276,Net Banking,2024,6,June,2
+ORD0384,2024-06-30,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0178,Male,Fashion,W Women's Casual Dress,3,3451,10353,Debit Card,2024,6,June,2
+ORD0564,2024-06-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0523,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,15642,15642,Debit Card,2024,6,June,2
+ORD0670,2024-06-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0153,Female,Home Appliances,Morphy Richards OTG 60L,2,10073,20146,Credit Card,2024,6,June,2
+ORD0372,2024-07-01,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0051,Female,Fashion,Nike Running Shoes Men,5,3627,18135,UPI,2024,7,July,3
+ORD0783,2024-07-01,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0057,Male,Grocery,Fortune Refined Sunflower Oil 5L,4,900,3600,Debit Card,2024,7,July,3
+ORD1195,2024-07-01,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0720,Male,Fashion,Arrow Men's Formal Trouser,2,2006,4012,Credit Card,2024,7,July,3
+ORD0005,2024-07-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0619,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,19392,19392,UPI,2024,7,July,3
+ORD0042,2024-07-02,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0256,Male,Fashion,Arrow Men's Formal Trouser,5,2632,13160,EMI,2024,7,July,3
+ORD0115,2024-07-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0150,Male,Grocery,Fresh Fruits Combo Basket,1,784,784,Cash,2024,7,July,3
+ORD0454,2024-07-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0637,Female,Beauty,L'Oreal Paris Revitalift Face Cream,3,1081,3243,Credit Card,2024,7,July,3
+ORD0498,2024-07-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0109,Female,Home Appliances,Usha Table Fan 3 Speed,1,2742,2742,UPI,2024,7,July,3
+ORD0697,2024-07-02,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0289,Male,Fashion,Titan Raga Ladies Watch,2,8229,16458,EMI,2024,7,July,3
+ORD0699,2024-07-03,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0158,Female,Beauty,Biotique Bio Sunscreen SPF60,1,468,468,EMI,2024,7,July,3
+ORD0132,2024-07-04,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0703,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,157,157,Credit Card,2024,7,July,3
+ORD0556,2024-07-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0266,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,768,1536,Net Banking,2024,7,July,3
+ORD1180,2024-07-04,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0137,Male,Electronics,Redmi Note 13 Pro,3,20956,62868,Credit Card,2024,7,July,3
+ORD0223,2024-07-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0053,Male,Fashion,Raymond Men's Formal Shirt,1,1350,1350,UPI,2024,7,July,3
+ORD0444,2024-07-06,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0039,Female,Beauty,Nykaa Lipstick Set of 5,2,1447,2894,Net Banking,2024,7,July,3
+ORD0148,2024-07-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0286,Male,Home Appliances,Havells Ceiling Fan Premium,1,5280,5280,EMI,2024,7,July,3
+ORD0602,2024-07-07,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0060,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,398,398,Credit Card,2024,7,July,3
+ORD1013,2024-07-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0176,Female,Home Appliances,Philips Steam Iron 2400W,1,3000,3000,Cash,2024,7,July,3
+ORD1070,2024-07-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0703,Female,Grocery,Fortune Refined Sunflower Oil 5L,5,700,3500,Debit Card,2024,7,July,3
+ORD1174,2024-07-07,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0729,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,3592,7184,Debit Card,2024,7,July,3
+ORD0274,2024-07-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0047,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,2,36272,72544,Net Banking,2024,7,July,3
+ORD0741,2024-07-08,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0450,Male,Beauty,Lakme Absolute Foundation SPF15,1,936,936,EMI,2024,7,July,3
+ORD0786,2024-07-08,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0013,Female,Fashion,Raymond Men's Formal Shirt,4,2112,8448,Cash,2024,7,July,3
+ORD1117,2024-07-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0256,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,5,2898,14490,UPI,2024,7,July,3
+ORD0145,2024-07-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0570,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1187,1187,Cash,2024,7,July,3
+ORD0169,2024-07-09,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0397,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,3,8428,25284,EMI,2024,7,July,3
+ORD0607,2024-07-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0649,Female,Home Appliances,Morphy Richards OTG 60L,1,11984,11984,Net Banking,2024,7,July,3
+ORD0779,2024-07-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0167,Female,Electronics,"Samsung 55"" Smart TV",4,58256,233024,Credit Card,2024,7,July,3
+ORD0951,2024-07-10,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0173,Male,Grocery,Nescafe Classic Coffee 200g,4,846,3384,UPI,2024,7,July,3
+ORD1052,2024-07-10,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0316,Male,Fashion,Levi's Men's Slim Fit Jeans,1,3009,3009,Net Banking,2024,7,July,3
+ORD0151,2024-07-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0350,Male,Fashion,W Women's Casual Dress,4,3390,13560,Net Banking,2024,7,July,3
+ORD0302,2024-07-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0403,Female,Electronics,Philips Air Fryer,2,6636,13272,Net Banking,2024,7,July,3
+ORD0517,2024-07-11,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0375,Male,Grocery,Nescafe Classic Coffee 200g,4,849,3396,Net Banking,2024,7,July,3
+ORD0752,2024-07-11,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0076,Female,Grocery,Organic India Premium Basmati Rice 5kg,1,673,673,Net Banking,2024,7,July,3
+ORD0985,2024-07-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0189,Male,Fashion,Fabindia Women's Kurta Set,1,2232,2232,Cash,2024,7,July,3
+ORD0593,2024-07-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0138,Female,Beauty,Park Avenue Signature Perfume 100ml,2,3247,6494,Debit Card,2024,7,July,3
+ORD0831,2024-07-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0331,Male,Home Appliances,Bajaj 750W Mixer Grinder,1,3343,3343,Net Banking,2024,7,July,3
+ORD0927,2024-07-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0254,Male,Fashion,Titan Raga Ladies Watch,3,6577,19731,Debit Card,2024,7,July,3
+ORD0991,2024-07-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0326,Female,Beauty,Forest Essentials Luxury Face Wash,1,2143,2143,Net Banking,2024,7,July,3
+ORD0067,2024-07-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0466,Female,Fashion,Puma Men's Track Pants,3,2069,6207,UPI,2024,7,July,3
+ORD0644,2024-07-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0404,Male,Grocery,Haldiram's Bhujia Sev 1kg,3,416,1248,Cash,2024,7,July,3
+ORD0435,2024-07-14,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0424,Male,Beauty,Biotique Bio Sunscreen SPF60,5,470,2350,Debit Card,2024,7,July,3
+ORD0478,2024-07-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0687,Male,Electronics,Apple iPhone 15,2,74695,149390,Credit Card,2024,7,July,3
+ORD0499,2024-07-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0677,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1012,1012,UPI,2024,7,July,3
+ORD0616,2024-07-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0537,Male,Fashion,Titan Raga Ladies Watch,1,6225,6225,EMI,2024,7,July,3
+ORD0698,2024-07-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0446,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,335,335,UPI,2024,7,July,3
+ORD0379,2024-07-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0205,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1306,1306,UPI,2024,7,July,3
+ORD0439,2024-07-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0547,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,3,37279,111837,Net Banking,2024,7,July,3
+ORD0473,2024-07-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0624,Male,Fashion,W Women's Casual Dress,2,2402,4804,Credit Card,2024,7,July,3
+ORD0651,2024-07-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0524,Male,Fashion,Puma Men's Track Pants,3,1589,4767,Debit Card,2024,7,July,3
+ORD0689,2024-07-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0214,Female,Home Appliances,Philips Steam Iron 2400W,3,3361,10083,Net Banking,2024,7,July,3
+ORD0702,2024-07-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0191,Female,Grocery,Fresh Fruits Combo Basket,3,1110,3330,Credit Card,2024,7,July,3
+ORD1076,2024-07-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0226,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,445,445,Net Banking,2024,7,July,3
+ORD0296,2024-07-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0424,Female,Home Appliances,Havells Ceiling Fan Premium,2,3994,7988,Credit Card,2024,7,July,3
+ORD0491,2024-07-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0742,Female,Electronics,JBL Portable Bluetooth Speaker,2,6071,12142,Net Banking,2024,7,July,3
+ORD0629,2024-07-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0390,Male,Beauty,Park Avenue Signature Perfume 100ml,2,3022,6044,Credit Card,2024,7,July,3
+ORD1010,2024-07-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0112,Female,Grocery,Haldiram's Bhujia Sev 1kg,4,463,1852,Cash,2024,7,July,3
+ORD1073,2024-07-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0200,Male,Beauty,Mamaearth Onion Hair Oil 250ml,2,766,1532,Credit Card,2024,7,July,3
+ORD0960,2024-07-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0787,Male,Electronics,Redmi Note 13 Pro,2,19580,39160,Credit Card,2024,7,July,3
+ORD0063,2024-07-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0599,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,2,11116,22232,Debit Card,2024,7,July,3
+ORD0824,2024-07-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0113,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1192,2384,Net Banking,2024,7,July,3
+ORD1134,2024-07-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0111,Male,Electronics,Redmi Note 13 Pro,1,22096,22096,EMI,2024,7,July,3
+ORD0717,2024-07-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0692,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,2,9596,19192,EMI,2024,7,July,3
+ORD0368,2024-07-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0754,Female,Fashion,Raymond Men's Formal Shirt,1,1678,1678,Credit Card,2024,7,July,3
+ORD0852,2024-07-20,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0262,Female,Electronics,Sony Headphones WH-1000XM5,1,10436,10436,Credit Card,2024,7,July,3
+ORD0963,2024-07-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0285,Female,Electronics,Sony Headphones WH-1000XM5,3,13405,40215,EMI,2024,7,July,3
+ORD0072,2024-07-22,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0204,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,726,1452,Debit Card,2024,7,July,3
+ORD0288,2024-07-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0307,Male,Grocery,Fresh Fruits Combo Basket,2,998,1996,Net Banking,2024,7,July,3
+ORD0535,2024-07-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0676,Male,Home Appliances,Kent Grand Plus RO Water Purifier,2,21415,42830,Credit Card,2024,7,July,3
+ORD1057,2024-07-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0083,Male,Beauty,Biotique Bio Sunscreen SPF60,1,618,618,Debit Card,2024,7,July,3
+ORD1095,2024-07-22,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0705,Male,Grocery,Nescafe Classic Coffee 200g,2,798,1596,EMI,2024,7,July,3
+ORD0046,2024-07-23,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0072,Female,Fashion,Arrow Men's Formal Trouser,2,2618,5236,Net Banking,2024,7,July,3
+ORD0217,2024-07-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0380,Male,Fashion,H&M Women's Handbag,1,2501,2501,Credit Card,2024,7,July,3
+ORD0542,2024-07-23,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0405,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,3,907,2721,Cash,2024,7,July,3
+ORD0010,2024-07-24,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0217,Female,Fashion,H&M Women's Handbag,4,3620,14480,EMI,2024,7,July,3
+ORD0351,2024-07-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0550,Male,Fashion,Raymond Men's Formal Shirt,2,1361,2722,Credit Card,2024,7,July,3
+ORD1069,2024-07-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0143,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,5,1043,5215,Credit Card,2024,7,July,3
+ORD0032,2024-07-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0584,Male,Grocery,Organic India Premium Basmati Rice 5kg,2,491,982,Net Banking,2024,7,July,3
+ORD0443,2024-07-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0230,Male,Fashion,Levi's Men's Slim Fit Jeans,2,4915,9830,Cash,2024,7,July,3
+ORD0696,2024-07-25,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0302,Male,Fashion,Arrow Men's Formal Trouser,1,1908,1908,Net Banking,2024,7,July,3
+ORD1164,2024-07-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0540,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,1,41884,41884,UPI,2024,7,July,3
+ORD0518,2024-07-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0354,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,2,8054,16108,Credit Card,2024,7,July,3
+ORD0566,2024-07-26,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0074,Male,Electronics,Sony Headphones WH-1000XM5,1,10568,10568,Debit Card,2024,7,July,3
+ORD0841,2024-07-26,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0154,Male,Electronics,Dell Inspiron Laptop,2,60209,120418,UPI,2024,7,July,3
+ORD1190,2024-07-26,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0169,Male,Home Appliances,Philips Steam Iron 2400W,1,2598,2598,Cash,2024,7,July,3
+ORD0024,2024-07-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0100,Female,Fashion,Puma Men's Track Pants,4,2456,9824,Cash,2024,7,July,3
+ORD0079,2024-07-27,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0777,Male,Grocery,Haldiram's Bhujia Sev 1kg,3,414,1242,Cash,2024,7,July,3
+ORD0051,2024-07-28,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0714,Female,Grocery,Fortune Refined Sunflower Oil 5L,2,807,1614,UPI,2024,7,July,3
+ORD0436,2024-07-28,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0469,Male,Fashion,Nike Running Shoes Men,1,6690,6690,Debit Card,2024,7,July,3
+ORD0531,2024-07-28,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0006,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,1,426,426,EMI,2024,7,July,3
+ORD0146,2024-07-29,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0682,Female,Beauty,Lakme Absolute Foundation SPF15,2,1094,2188,Debit Card,2024,7,July,3
+ORD0975,2024-07-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0614,Male,Grocery,Haldiram's Bhujia Sev 1kg,4,409,1636,Net Banking,2024,7,July,3
+ORD1129,2024-07-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0500,Male,Electronics,Dell Inspiron Laptop,2,52408,104816,Debit Card,2024,7,July,3
+ORD0143,2024-07-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0465,Female,Fashion,Fabindia Women's Kurta Set,2,2140,4280,EMI,2024,7,July,3
+ORD0366,2024-07-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0382,Female,Beauty,L'Oreal Paris Revitalift Face Cream,1,1294,1294,Credit Card,2024,7,July,3
+ORD0406,2024-07-30,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0604,Male,Grocery,Nescafe Classic Coffee 200g,2,809,1618,Net Banking,2024,7,July,3
+ORD0548,2024-07-30,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0529,Male,Home Appliances,Usha Table Fan 3 Speed,1,2008,2008,UPI,2024,7,July,3
+ORD0638,2024-07-30,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0311,Female,Home Appliances,Usha Table Fan 3 Speed,3,1811,5433,Cash,2024,7,July,3
+ORD0672,2024-07-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0244,Female,Grocery,Britannia Digestive Biscuits Multipack,2,305,610,Credit Card,2024,7,July,3
+ORD0216,2024-07-31,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0209,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,241,241,Debit Card,2024,7,July,3
+ORD0788,2024-07-31,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0602,Male,Electronics,Dell Inspiron Laptop,5,60552,302760,Net Banking,2024,7,July,3
+ORD0915,2024-07-31,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0681,Male,Electronics,JBL Portable Bluetooth Speaker,3,6454,19362,Credit Card,2024,7,July,3
+ORD1019,2024-07-31,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0633,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,891,891,EMI,2024,7,July,3
+ORD0214,2024-08-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0032,Female,Beauty,Himalaya Purifying Neem Face Wash,2,274,548,Debit Card,2024,8,August,3
+ORD0477,2024-08-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0547,Female,Beauty,VLCC Anti Aging Serum 30ml,2,713,1426,Cash,2024,8,August,3
+ORD0615,2024-08-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0124,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,2,8093,16186,EMI,2024,8,August,3
+ORD0936,2024-08-01,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0318,Female,Beauty,VLCC Anti Aging Serum 30ml,3,1186,3558,Net Banking,2024,8,August,3
+ORD0349,2024-08-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0700,Male,Home Appliances,Bajaj 750W Mixer Grinder,2,2568,5136,Cash,2024,8,August,3
+ORD0978,2024-08-03,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0636,Female,Electronics,Apple iPhone 15,1,83058,83058,Credit Card,2024,8,August,3
+ORD1030,2024-08-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0015,Female,Home Appliances,Bajaj 750W Mixer Grinder,5,3403,17015,Cash,2024,8,August,3
+ORD0305,2024-08-04,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0076,Female,Beauty,Park Avenue Signature Perfume 100ml,2,2992,5984,Net Banking,2024,8,August,3
+ORD0830,2024-08-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0432,Female,Electronics,Samsung Galaxy Tab S9,1,54267,54267,Debit Card,2024,8,August,3
+ORD0842,2024-08-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0038,Male,Electronics,Apple iPhone 15,1,70477,70477,Debit Card,2024,8,August,3
+ORD1187,2024-08-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0466,Female,Beauty,Himalaya Purifying Neem Face Wash,3,278,834,UPI,2024,8,August,3
+ORD0059,2024-08-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0562,Female,Beauty,Park Avenue Signature Perfume 100ml,1,2721,2721,Credit Card,2024,8,August,3
+ORD0197,2024-08-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0455,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,5,228,1140,Debit Card,2024,8,August,3
+ORD0377,2024-08-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0220,Male,Fashion,H&M Women's Handbag,1,2608,2608,Net Banking,2024,8,August,3
+ORD0453,2024-08-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0098,Male,Electronics,Apple iPhone 15,2,80868,161736,Debit Card,2024,8,August,3
+ORD0682,2024-08-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0722,Female,Grocery,Britannia Digestive Biscuits Multipack,3,335,1005,EMI,2024,8,August,3
+ORD0739,2024-08-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0756,Female,Fashion,Titan Raga Ladies Watch,1,9471,9471,Credit Card,2024,8,August,3
+ORD0999,2024-08-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0443,Female,Fashion,H&M Women's Handbag,1,3298,3298,Cash,2024,8,August,3
+ORD0158,2024-08-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0727,Female,Fashion,Puma Men's Track Pants,5,1542,7710,Credit Card,2024,8,August,3
+ORD0345,2024-08-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0144,Male,Fashion,Fabindia Women's Kurta Set,2,2008,4016,Net Banking,2024,8,August,3
+ORD0507,2024-08-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0321,Male,Home Appliances,Philips Steam Iron 2400W,3,2766,8298,Credit Card,2024,8,August,3
+ORD0916,2024-08-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0420,Female,Beauty,Himalaya Purifying Neem Face Wash,1,374,374,Cash,2024,8,August,3
+ORD0142,2024-08-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0719,Male,Home Appliances,Havells Ceiling Fan Premium,2,3880,7760,Credit Card,2024,8,August,3
+ORD0577,2024-08-08,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0612,Male,Home Appliances,Havells Ceiling Fan Premium,1,4530,4530,Net Banking,2024,8,August,3
+ORD0621,2024-08-08,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0590,Male,Electronics,Canon EOS 200D Camera,1,53878,53878,Credit Card,2024,8,August,3
+ORD0725,2024-08-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0659,Male,Beauty,Nykaa Lipstick Set of 5,1,1005,1005,Cash,2024,8,August,3
+ORD0804,2024-08-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0111,Male,Home Appliances,Havells Ceiling Fan Premium,1,5429,5429,Cash,2024,8,August,3
+ORD0822,2024-08-08,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0122,Female,Grocery,Nescafe Classic Coffee 200g,2,713,1426,Cash,2024,8,August,3
+ORD1200,2024-08-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0730,Female,Fashion,Titan Raga Ladies Watch,1,9971,9971,Credit Card,2024,8,August,3
+ORD0095,2024-08-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0619,Female,Electronics,Sony Headphones WH-1000XM5,3,13523,40569,Net Banking,2024,8,August,3
+ORD0618,2024-08-09,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0404,Male,Electronics,LG Front Load Washing Machine,2,47592,95184,Cash,2024,8,August,3
+ORD0900,2024-08-09,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0508,Female,Electronics,Canon EOS 200D Camera,2,55928,111856,EMI,2024,8,August,3
+ORD1015,2024-08-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0681,Female,Electronics,Philips Air Fryer,2,7542,15084,Net Banking,2024,8,August,3
+ORD1048,2024-08-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0494,Male,Home Appliances,Philips Steam Iron 2400W,1,3949,3949,Debit Card,2024,8,August,3
+ORD0353,2024-08-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0627,Male,Fashion,Nike Running Shoes Men,1,3989,3989,Credit Card,2024,8,August,3
+ORD0574,2024-08-10,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0655,Female,Beauty,Park Avenue Signature Perfume 100ml,1,2905,2905,Cash,2024,8,August,3
+ORD0918,2024-08-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0778,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,894,894,EMI,2024,8,August,3
+ORD1131,2024-08-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0727,Male,Electronics,Dell Inspiron Laptop,1,46319,46319,UPI,2024,8,August,3
+ORD0194,2024-08-11,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0762,Female,Beauty,VLCC Anti Aging Serum 30ml,5,1047,5235,UPI,2024,8,August,3
+ORD0390,2024-08-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0499,Female,Electronics,JBL Portable Bluetooth Speaker,1,5923,5923,Net Banking,2024,8,August,3
+ORD0578,2024-08-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0168,Female,Home Appliances,Crompton 25L Geyser Water Heater,1,7077,7077,EMI,2024,8,August,3
+ORD0327,2024-08-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0121,Male,Fashion,Titan Raga Ladies Watch,1,10645,10645,EMI,2024,8,August,3
+ORD0582,2024-08-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0239,Male,Electronics,Samsung Galaxy Tab S9,1,42116,42116,Debit Card,2024,8,August,3
+ORD0853,2024-08-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0786,Female,Home Appliances,Usha Table Fan 3 Speed,3,1664,4992,UPI,2024,8,August,3
+ORD0337,2024-08-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0439,Male,Beauty,Biotique Bio Sunscreen SPF60,1,732,732,Debit Card,2024,8,August,3
+ORD0519,2024-08-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0079,Female,Fashion,Nike Running Shoes Men,1,4144,4144,EMI,2024,8,August,3
+ORD0027,2024-08-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0564,Male,Electronics,JBL Portable Bluetooth Speaker,5,3120,15600,Credit Card,2024,8,August,3
+ORD0040,2024-08-14,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0438,Male,Electronics,Apple iPhone 15,1,78938,78938,Debit Card,2024,8,August,3
+ORD0164,2024-08-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0282,Male,Fashion,Fabindia Women's Kurta Set,2,2135,4270,Cash,2024,8,August,3
+ORD0254,2024-08-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0211,Female,Electronics,JBL Portable Bluetooth Speaker,3,6649,19947,UPI,2024,8,August,3
+ORD0344,2024-08-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0089,Male,Electronics,LG Front Load Washing Machine,3,51319,153957,Debit Card,2024,8,August,3
+ORD0575,2024-08-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0423,Female,Electronics,"Samsung 55"" Smart TV",2,45003,90006,Credit Card,2024,8,August,3
+ORD0917,2024-08-14,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0011,Male,Electronics,Redmi Note 13 Pro,5,21290,106450,Credit Card,2024,8,August,3
+ORD0939,2024-08-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0662,Male,Beauty,Lakme Absolute Foundation SPF15,2,1385,2770,EMI,2024,8,August,3
+ORD1028,2024-08-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0651,Male,Fashion,Raymond Men's Formal Shirt,1,2109,2109,Cash,2024,8,August,3
+ORD0140,2024-08-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0083,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,376,376,EMI,2024,8,August,3
+ORD0204,2024-08-15,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0699,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,430,860,Debit Card,2024,8,August,3
+ORD0294,2024-08-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0277,Male,Electronics,Apple iPhone 15,2,77061,154122,Net Banking,2024,8,August,3
+ORD0681,2024-08-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0030,Female,Beauty,Lakme Absolute Foundation SPF15,1,908,908,Cash,2024,8,August,3
+ORD0813,2024-08-15,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0418,Female,Beauty,VLCC Anti Aging Serum 30ml,4,893,3572,UPI,2024,8,August,3
+ORD0107,2024-08-16,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0354,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1093,2186,Debit Card,2024,8,August,3
+ORD0248,2024-08-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0338,Female,Grocery,Fresh Fruits Combo Basket,1,611,611,Debit Card,2024,8,August,3
+ORD0492,2024-08-16,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0304,Male,Fashion,Fabindia Women's Kurta Set,1,3441,3441,Net Banking,2024,8,August,3
+ORD0163,2024-08-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0579,Female,Beauty,Dove Body Lotion 400ml,2,377,754,UPI,2024,8,August,3
+ORD0184,2024-08-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0082,Male,Fashion,Nike Running Shoes Men,4,5747,22988,Net Banking,2024,8,August,3
+ORD0258,2024-08-17,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0387,Female,Electronics,JBL Portable Bluetooth Speaker,2,4089,8178,Debit Card,2024,8,August,3
+ORD1123,2024-08-17,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0691,Male,Electronics,Redmi Note 13 Pro,1,24876,24876,Debit Card,2024,8,August,3
+ORD0269,2024-08-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0095,Male,Electronics,Canon EOS 200D Camera,2,59823,119646,Cash,2024,8,August,3
+ORD0506,2024-08-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0676,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,2,889,1778,Debit Card,2024,8,August,3
+ORD0558,2024-08-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0135,Male,Home Appliances,Usha Table Fan 3 Speed,2,1982,3964,UPI,2024,8,August,3
+ORD0562,2024-08-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0267,Female,Fashion,Arrow Men's Formal Trouser,1,2327,2327,UPI,2024,8,August,3
+ORD0568,2024-08-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0189,Male,Electronics,Sony Headphones WH-1000XM5,1,13423,13423,EMI,2024,8,August,3
+ORD0544,2024-08-20,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0589,Male,Fashion,Puma Men's Track Pants,1,2536,2536,Cash,2024,8,August,3
+ORD0686,2024-08-20,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0067,Female,Electronics,Samsung Galaxy Tab S9,3,50113,150339,Debit Card,2024,8,August,3
+ORD0753,2024-08-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0383,Male,Grocery,Fortune Refined Sunflower Oil 5L,1,861,861,Debit Card,2024,8,August,3
+ORD0762,2024-08-20,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0142,Female,Electronics,Redmi Note 13 Pro,2,23134,46268,EMI,2024,8,August,3
+ORD0892,2024-08-20,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0461,Female,Fashion,Nike Running Shoes Men,1,4364,4364,EMI,2024,8,August,3
+ORD0928,2024-08-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0729,Female,Home Appliances,Bajaj 750W Mixer Grinder,1,2877,2877,Credit Card,2024,8,August,3
+ORD0701,2024-08-21,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0713,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,430,860,UPI,2024,8,August,3
+ORD0932,2024-08-21,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0765,Male,Beauty,Dove Body Lotion 400ml,2,360,720,UPI,2024,8,August,3
+ORD0011,2024-08-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0143,Male,Home Appliances,Havells Ceiling Fan Premium,3,4076,12228,UPI,2024,8,August,3
+ORD0317,2024-08-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0687,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,226,226,UPI,2024,8,August,3
+ORD0780,2024-08-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0160,Male,Beauty,Himalaya Purifying Neem Face Wash,1,329,329,EMI,2024,8,August,3
+ORD0283,2024-08-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0714,Male,Fashion,Fabindia Women's Kurta Set,5,2838,14190,EMI,2024,8,August,3
+ORD0009,2024-08-24,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0656,Male,Grocery,Organic India Premium Basmati Rice 5kg,3,567,1701,Debit Card,2024,8,August,3
+ORD0166,2024-08-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0757,Male,Grocery,Fresh Fruits Combo Basket,1,792,792,UPI,2024,8,August,3
+ORD0790,2024-08-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0774,Male,Electronics,Canon EOS 200D Camera,2,49485,98970,Cash,2024,8,August,3
+ORD0891,2024-08-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0187,Female,Electronics,Canon EOS 200D Camera,1,49753,49753,EMI,2024,8,August,3
+ORD1023,2024-08-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0655,Female,Fashion,Puma Men's Track Pants,1,1898,1898,Cash,2024,8,August,3
+ORD0565,2024-08-25,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0149,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,203,406,Net Banking,2024,8,August,3
+ORD0691,2024-08-25,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0100,Female,Electronics,Canon EOS 200D Camera,2,42280,84560,EMI,2024,8,August,3
+ORD1197,2024-08-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0641,Male,Beauty,Forest Essentials Luxury Face Wash,1,2105,2105,EMI,2024,8,August,3
+ORD0838,2024-08-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0654,Female,Beauty,Lakme Absolute Foundation SPF15,1,1334,1334,UPI,2024,8,August,3
+ORD0870,2024-08-27,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0325,Female,Electronics,LG Front Load Washing Machine,1,42265,42265,Credit Card,2024,8,August,3
+ORD0232,2024-08-29,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0754,Male,Home Appliances,Havells Ceiling Fan Premium,2,3849,7698,EMI,2024,8,August,3
+ORD0257,2024-08-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0419,Male,Home Appliances,Philips Steam Iron 2400W,5,2966,14830,UPI,2024,8,August,3
+ORD0524,2024-08-29,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0175,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,3,9169,27507,Credit Card,2024,8,August,3
+ORD0854,2024-08-29,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0341,Female,Beauty,L'Oreal Paris Revitalift Face Cream,2,864,1728,Net Banking,2024,8,August,3
+ORD0070,2024-08-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0578,Male,Grocery,Britannia Digestive Biscuits Multipack,1,344,344,Net Banking,2024,8,August,3
+ORD0403,2024-08-30,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0316,Female,Grocery,Britannia Digestive Biscuits Multipack,2,273,546,UPI,2024,8,August,3
+ORD0415,2024-08-31,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0382,Male,Fashion,Raymond Men's Formal Shirt,1,1836,1836,UPI,2024,8,August,3
+ORD0835,2024-08-31,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0356,Male,Grocery,Britannia Digestive Biscuits Multipack,3,379,1137,UPI,2024,8,August,3
+ORD0885,2024-08-31,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0615,Female,Electronics,Canon EOS 200D Camera,2,52066,104132,UPI,2024,8,August,3
+ORD0929,2024-08-31,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0080,Female,Grocery,Nescafe Classic Coffee 200g,2,750,1500,UPI,2024,8,August,3
+ORD0233,2024-09-01,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0322,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1075,2150,EMI,2024,9,September,3
+ORD0554,2024-09-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0034,Female,Fashion,Nike Running Shoes Men,5,5372,26860,EMI,2024,9,September,3
+ORD0858,2024-09-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0137,Female,Electronics,Philips Air Fryer,3,7683,23049,Credit Card,2024,9,September,3
+ORD0782,2024-09-02,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0143,Male,Fashion,Puma Men's Track Pants,3,2764,8292,UPI,2024,9,September,3
+ORD0801,2024-09-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0708,Female,Electronics,Samsung Galaxy Tab S9,2,54583,109166,Debit Card,2024,9,September,3
+ORD1167,2024-09-02,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0455,Male,Fashion,H&M Women's Handbag,1,2632,2632,Net Banking,2024,9,September,3
+ORD0427,2024-09-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0284,Female,Beauty,Nykaa Lipstick Set of 5,3,1571,4713,EMI,2024,9,September,3
+ORD0450,2024-09-03,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0003,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,433,866,Credit Card,2024,9,September,3
+ORD0528,2024-09-03,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0618,Male,Beauty,VLCC Anti Aging Serum 30ml,2,1234,2468,Cash,2024,9,September,3
+ORD0794,2024-09-03,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0265,Female,Beauty,L'Oreal Paris Revitalift Face Cream,2,1082,2164,Net Banking,2024,9,September,3
+ORD1177,2024-09-03,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0424,Female,Electronics,Sony Headphones WH-1000XM5,2,11139,22278,UPI,2024,9,September,3
+ORD0215,2024-09-04,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0702,Female,Fashion,Fabindia Women's Kurta Set,1,2910,2910,UPI,2024,9,September,3
+ORD0312,2024-09-04,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0100,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,17612,17612,Cash,2024,9,September,3
+ORD0399,2024-09-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0442,Male,Grocery,Nescafe Classic Coffee 200g,1,640,640,Debit Card,2024,9,September,3
+ORD0457,2024-09-04,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0695,Female,Electronics,Canon EOS 200D Camera,2,51750,103500,EMI,2024,9,September,3
+ORD0102,2024-09-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0646,Male,Home Appliances,Usha Table Fan 3 Speed,1,2628,2628,UPI,2024,9,September,3
+ORD0322,2024-09-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0394,Female,Fashion,H&M Women's Handbag,3,3702,11106,UPI,2024,9,September,3
+ORD0750,2024-09-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0073,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,1,12749,12749,Credit Card,2024,9,September,3
+ORD1067,2024-09-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0346,Female,Fashion,W Women's Casual Dress,3,2445,7335,Debit Card,2024,9,September,3
+ORD1136,2024-09-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0440,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,995,995,Cash,2024,9,September,3
+ORD0620,2024-09-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0586,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1026,1026,Debit Card,2024,9,September,3
+ORD0732,2024-09-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0648,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,1,2073,2073,EMI,2024,9,September,3
+ORD1127,2024-09-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0007,Female,Fashion,W Women's Casual Dress,1,2019,2019,EMI,2024,9,September,3
+ORD0323,2024-09-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0579,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,7196,7196,Credit Card,2024,9,September,3
+ORD0421,2024-09-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0182,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,1,194,194,Debit Card,2024,9,September,3
+ORD0087,2024-09-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0645,Male,Electronics,Philips Air Fryer,1,7489,7489,Credit Card,2024,9,September,3
+ORD0462,2024-09-08,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0339,Female,Electronics,Sony Headphones WH-1000XM5,2,12509,25018,UPI,2024,9,September,3
+ORD0728,2024-09-08,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0414,Male,Grocery,Organic India Premium Basmati Rice 5kg,5,646,3230,UPI,2024,9,September,3
+ORD0386,2024-09-09,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0180,Female,Electronics,"Samsung 55"" Smart TV",2,52622,105244,Cash,2024,9,September,3
+ORD0396,2024-09-09,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0360,Female,Electronics,Samsung Galaxy Tab S9,2,53941,107882,EMI,2024,9,September,3
+ORD0468,2024-09-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0735,Female,Electronics,Philips Air Fryer,1,6604,6604,UPI,2024,9,September,3
+ORD0655,2024-09-09,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0603,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,320,640,Cash,2024,9,September,3
+ORD0907,2024-09-09,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0215,Male,Beauty,Dove Body Lotion 400ml,1,433,433,Credit Card,2024,9,September,3
+ORD0712,2024-09-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0423,Female,Fashion,H&M Women's Handbag,1,2685,2685,EMI,2024,9,September,3
+ORD0887,2024-09-10,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0663,Male,Fashion,Puma Men's Track Pants,4,1662,6648,UPI,2024,9,September,3
+ORD1133,2024-09-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0732,Male,Fashion,Puma Men's Track Pants,3,2527,7581,EMI,2024,9,September,3
+ORD0156,2024-09-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0180,Male,Fashion,Adidas Women's Sports Shoes,2,5049,10098,EMI,2024,9,September,3
+ORD0393,2024-09-11,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0764,Male,Fashion,W Women's Casual Dress,2,2143,4286,Cash,2024,9,September,3
+ORD0748,2024-09-11,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0687,Male,Electronics,Redmi Note 13 Pro,1,20335,20335,Debit Card,2024,9,September,3
+ORD1074,2024-09-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0309,Female,Electronics,Samsung Galaxy Tab S9,2,38790,77580,Net Banking,2024,9,September,3
+ORD0220,2024-09-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0510,Male,Electronics,Canon EOS 200D Camera,2,56562,113124,Credit Card,2024,9,September,3
+ORD0276,2024-09-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0702,Female,Fashion,H&M Women's Handbag,2,4009,8018,EMI,2024,9,September,3
+ORD0285,2024-09-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0661,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,4,427,1708,Credit Card,2024,9,September,3
+ORD0348,2024-09-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0073,Male,Beauty,Dove Body Lotion 400ml,1,367,367,Net Banking,2024,9,September,3
+ORD0583,2024-09-12,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0475,Male,Fashion,Nike Running Shoes Men,1,3729,3729,UPI,2024,9,September,3
+ORD0871,2024-09-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0288,Female,Beauty,Nykaa Lipstick Set of 5,2,1169,2338,Debit Card,2024,9,September,3
+ORD1035,2024-09-12,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0105,Male,Fashion,Fabindia Women's Kurta Set,1,2728,2728,EMI,2024,9,September,3
+ORD0016,2024-09-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0520,Male,Beauty,Nykaa Lipstick Set of 5,2,1554,3108,Credit Card,2024,9,September,3
+ORD0167,2024-09-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0064,Female,Electronics,Redmi Note 13 Pro,1,23851,23851,EMI,2024,9,September,3
+ORD0674,2024-09-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0349,Female,Home Appliances,Havells Ceiling Fan Premium,3,4271,12813,Credit Card,2024,9,September,3
+ORD0807,2024-09-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0628,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,3,372,1116,Cash,2024,9,September,3
+ORD1058,2024-09-13,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0675,Female,Grocery,Nescafe Classic Coffee 200g,4,792,3168,EMI,2024,9,September,3
+ORD0110,2024-09-14,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0340,Male,Beauty,Park Avenue Signature Perfume 100ml,2,2004,4008,UPI,2024,9,September,3
+ORD0182,2024-09-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0396,Male,Fashion,Levi's Men's Slim Fit Jeans,4,3805,15220,EMI,2024,9,September,3
+ORD0281,2024-09-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0691,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,4,2219,8876,Net Banking,2024,9,September,3
+ORD0441,2024-09-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0172,Male,Home Appliances,Usha Table Fan 3 Speed,2,2095,4190,Net Banking,2024,9,September,3
+ORD0545,2024-09-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0120,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,528,1056,UPI,2024,9,September,3
+ORD0768,2024-09-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0284,Male,Electronics,Redmi Note 13 Pro,2,21706,43412,Net Banking,2024,9,September,3
+ORD1118,2024-09-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0439,Male,Fashion,Fabindia Women's Kurta Set,1,3440,3440,Debit Card,2024,9,September,3
+ORD0948,2024-09-15,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0118,Female,Electronics,Samsung Galaxy Tab S9,2,53124,106248,UPI,2024,9,September,3
+ORD0904,2024-09-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0702,Female,Beauty,Park Avenue Signature Perfume 100ml,4,2068,8272,EMI,2024,9,September,3
+ORD0104,2024-09-17,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0426,Female,Beauty,Forest Essentials Luxury Face Wash,2,1667,3334,UPI,2024,9,September,3
+ORD0173,2024-09-17,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0372,Female,Electronics,Sony Headphones WH-1000XM5,4,10799,43196,UPI,2024,9,September,3
+ORD1152,2024-09-17,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0799,Female,Fashion,Raymond Men's Formal Shirt,1,1623,1623,Credit Card,2024,9,September,3
+ORD1169,2024-09-18,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0426,Male,Electronics,Sony Headphones WH-1000XM5,1,8196,8196,UPI,2024,9,September,3
+ORD0138,2024-09-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0463,Male,Beauty,Lakme Absolute Foundation SPF15,2,1474,2948,UPI,2024,9,September,3
+ORD0295,2024-09-19,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0027,Male,Fashion,Fabindia Women's Kurta Set,2,2722,5444,Debit Card,2024,9,September,3
+ORD0484,2024-09-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0042,Female,Fashion,Raymond Men's Formal Shirt,1,1466,1466,Debit Card,2024,9,September,3
+ORD0765,2024-09-20,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0691,Female,Beauty,L'Oreal Paris Revitalift Face Cream,1,1092,1092,Net Banking,2024,9,September,3
+ORD0797,2024-09-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0644,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,2,9369,18738,Debit Card,2024,9,September,3
+ORD1094,2024-09-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0608,Female,Beauty,VLCC Anti Aging Serum 30ml,1,950,950,Credit Card,2024,9,September,3
+ORD0872,2024-09-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0169,Female,Home Appliances,Kent Grand Plus RO Water Purifier,5,21256,106280,Net Banking,2024,9,September,3
+ORD0555,2024-09-22,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0706,Male,Electronics,Sony Headphones WH-1000XM5,2,11108,22216,Debit Card,2024,9,September,3
+ORD0603,2024-09-22,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0743,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,749,1498,Credit Card,2024,9,September,3
+ORD0586,2024-09-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0214,Female,Fashion,Raymond Men's Formal Shirt,1,1861,1861,EMI,2024,9,September,3
+ORD1041,2024-09-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0425,Female,Home Appliances,Crompton 25L Geyser Water Heater,3,9469,28407,Debit Card,2024,9,September,3
+ORD1082,2024-09-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0605,Male,Electronics,"Samsung 55"" Smart TV",4,62638,250552,Debit Card,2024,9,September,3
+ORD0705,2024-09-24,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0091,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,447,894,Net Banking,2024,9,September,3
+ORD0160,2024-09-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0318,Female,Fashion,Nike Running Shoes Men,2,3812,7624,Cash,2024,9,September,3
+ORD0188,2024-09-25,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0070,Male,Fashion,H&M Women's Handbag,2,2178,4356,Debit Card,2024,9,September,3
+ORD1154,2024-09-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0226,Female,Home Appliances,Havells Ceiling Fan Premium,1,3487,3487,Cash,2024,9,September,3
+ORD0175,2024-09-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0345,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,683,683,EMI,2024,9,September,3
+ORD0387,2024-09-26,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0340,Male,Home Appliances,Morphy Richards OTG 60L,4,8453,33812,Debit Card,2024,9,September,3
+ORD0572,2024-09-26,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0030,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,210,420,Net Banking,2024,9,September,3
+ORD0627,2024-09-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0175,Male,Fashion,Titan Raga Ladies Watch,1,7222,7222,EMI,2024,9,September,3
+ORD0877,2024-09-26,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0185,Female,Beauty,Forest Essentials Luxury Face Wash,2,1986,3972,Cash,2024,9,September,3
+ORD0014,2024-09-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0567,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,4,447,1788,Debit Card,2024,9,September,3
+ORD0185,2024-09-27,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0795,Female,Fashion,Fabindia Women's Kurta Set,1,1597,1597,EMI,2024,9,September,3
+ORD0808,2024-09-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0197,Female,Electronics,JBL Portable Bluetooth Speaker,5,3035,15175,Cash,2024,9,September,3
+ORD0031,2024-09-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0521,Male,Home Appliances,Bajaj 750W Mixer Grinder,1,4937,4937,Credit Card,2024,9,September,3
+ORD0161,2024-09-28,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0795,Female,Fashion,Nike Running Shoes Men,1,4467,4467,Debit Card,2024,9,September,3
+ORD0382,2024-09-28,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0599,Male,Beauty,L'Oreal Paris Revitalift Face Cream,2,953,1906,Debit Card,2024,9,September,3
+ORD0471,2024-09-28,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0567,Female,Home Appliances,Kent Grand Plus RO Water Purifier,3,19164,57492,Credit Card,2024,9,September,3
+ORD0489,2024-09-28,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0575,Male,Electronics,Redmi Note 13 Pro,1,21650,21650,EMI,2024,9,September,3
+ORD1100,2024-09-28,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0532,Male,Home Appliances,Crompton 25L Geyser Water Heater,2,9955,19910,Cash,2024,9,September,3
+ORD0329,2024-09-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0552,Male,Fashion,Raymond Men's Formal Shirt,2,1792,3584,Net Banking,2024,9,September,3
+ORD0714,2024-09-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0700,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,4,871,3484,Cash,2024,9,September,3
+ORD0716,2024-09-29,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0443,Female,Fashion,Raymond Men's Formal Shirt,1,1401,1401,Net Banking,2024,9,September,3
+ORD1111,2024-09-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0562,Female,Electronics,LG Front Load Washing Machine,4,43888,175552,Debit Card,2024,9,September,3
+ORD0383,2024-09-30,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0755,Male,Home Appliances,Crompton 25L Geyser Water Heater,3,8358,25074,UPI,2024,9,September,3
+ORD0493,2024-09-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0068,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,921,1842,Cash,2024,9,September,3
+ORD1155,2024-09-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0041,Male,Beauty,Nykaa Lipstick Set of 5,1,1036,1036,Cash,2024,9,September,3
+ORD0413,2024-10-01,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0421,Female,Fashion,H&M Women's Handbag,2,4343,8686,Cash,2024,10,October,4
+ORD0833,2024-10-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0272,Male,Fashion,Titan Raga Ladies Watch,3,8293,24879,Net Banking,2024,10,October,4
+ORD0267,2024-10-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0231,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,3650,7300,Cash,2024,10,October,4
+ORD0324,2024-10-02,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0800,Female,Grocery,Haldiram's Bhujia Sev 1kg,2,440,880,Net Banking,2024,10,October,4
+ORD1159,2024-10-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0797,Male,Home Appliances,Philips Steam Iron 2400W,1,3539,3539,EMI,2024,10,October,4
+ORD1178,2024-10-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0546,Male,Fashion,Titan Raga Ladies Watch,2,10856,21712,Net Banking,2024,10,October,4
+ORD0124,2024-10-03,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0375,Female,Home Appliances,Usha Table Fan 3 Speed,5,2486,12430,Debit Card,2024,10,October,4
+ORD0767,2024-10-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0490,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,7312,7312,Debit Card,2024,10,October,4
+ORD1125,2024-10-03,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0121,Female,Fashion,Raymond Men's Formal Shirt,1,1742,1742,EMI,2024,10,October,4
+ORD0594,2024-10-04,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0195,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,243,486,Net Banking,2024,10,October,4
+ORD0244,2024-10-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0138,Female,Fashion,Fabindia Women's Kurta Set,1,2177,2177,UPI,2024,10,October,4
+ORD1003,2024-10-05,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0009,Female,Fashion,W Women's Casual Dress,5,3403,17015,UPI,2024,10,October,4
+ORD0002,2024-10-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0433,Male,Electronics,Sony Headphones WH-1000XM5,2,9905,19810,Cash,2024,10,October,4
+ORD0196,2024-10-06,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0106,Male,Fashion,Raymond Men's Formal Shirt,2,1827,3654,EMI,2024,10,October,4
+ORD0500,2024-10-06,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0650,Male,Fashion,W Women's Casual Dress,2,1822,3644,Net Banking,2024,10,October,4
+ORD1001,2024-10-06,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0284,Male,Electronics,LG Front Load Washing Machine,1,43804,43804,Credit Card,2024,10,October,4
+ORD0446,2024-10-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0719,Male,Fashion,Levi's Men's Slim Fit Jeans,2,3733,7466,Cash,2024,10,October,4
+ORD0570,2024-10-07,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0790,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,373,373,Credit Card,2024,10,October,4
+ORD0619,2024-10-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0088,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,2,669,1338,Credit Card,2024,10,October,4
+ORD1025,2024-10-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0731,Female,Electronics,Dell Inspiron Laptop,1,50287,50287,Cash,2024,10,October,4
+ORD0099,2024-10-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0091,Female,Fashion,Fabindia Women's Kurta Set,3,3486,10458,Net Banking,2024,10,October,4
+ORD0224,2024-10-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0639,Male,Electronics,LG Front Load Washing Machine,1,44907,44907,Debit Card,2024,10,October,4
+ORD0411,2024-10-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0283,Female,Beauty,Lakme Absolute Foundation SPF15,2,1438,2876,UPI,2024,10,October,4
+ORD0889,2024-10-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0047,Male,Grocery,Nescafe Classic Coffee 200g,2,624,1248,EMI,2024,10,October,4
+ORD0180,2024-10-10,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0729,Male,Fashion,Nike Running Shoes Men,2,4617,9234,Net Banking,2024,10,October,4
+ORD0595,2024-10-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0544,Male,Grocery,Britannia Digestive Biscuits Multipack,1,388,388,Cash,2024,10,October,4
+ORD0902,2024-10-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0664,Female,Beauty,L'Oreal Paris Revitalift Face Cream,2,1206,2412,EMI,2024,10,October,4
+ORD0321,2024-10-11,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0296,Male,Electronics,Samsung Galaxy Tab S9,4,36756,147024,Cash,2024,10,October,4
+ORD0373,2024-10-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0256,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,662,662,Credit Card,2024,10,October,4
+ORD0955,2024-10-11,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0443,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,4,237,948,EMI,2024,10,October,4
+ORD0126,2024-10-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0405,Male,Fashion,Fabindia Women's Kurta Set,1,2431,2431,EMI,2024,10,October,4
+ORD0225,2024-10-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0774,Male,Electronics,JBL Portable Bluetooth Speaker,2,6288,12576,Cash,2024,10,October,4
+ORD0534,2024-10-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0380,Female,Fashion,Raymond Men's Formal Shirt,1,2383,2383,EMI,2024,10,October,4
+ORD0592,2024-10-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0775,Female,Home Appliances,Kent Grand Plus RO Water Purifier,1,21006,21006,EMI,2024,10,October,4
+ORD0760,2024-10-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0710,Female,Beauty,Biotique Bio Sunscreen SPF60,1,583,583,EMI,2024,10,October,4
+ORD0860,2024-10-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0642,Male,Beauty,Park Avenue Signature Perfume 100ml,1,2206,2206,Credit Card,2024,10,October,4
+ORD0665,2024-10-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0218,Male,Grocery,Britannia Digestive Biscuits Multipack,3,315,945,Debit Card,2024,10,October,4
+ORD0003,2024-10-14,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0666,Female,Fashion,Titan Raga Ladies Watch,3,7278,21834,Cash,2024,10,October,4
+ORD0268,2024-10-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0427,Male,Fashion,Raymond Men's Formal Shirt,1,1616,1616,Cash,2024,10,October,4
+ORD0875,2024-10-14,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0505,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,1,2253,2253,Credit Card,2024,10,October,4
+ORD1050,2024-10-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0074,Female,Electronics,Samsung Galaxy Tab S9,1,41413,41413,Credit Card,2024,10,October,4
+ORD0287,2024-10-15,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0184,Female,Electronics,Sony Headphones WH-1000XM5,1,12808,12808,EMI,2024,10,October,4
+ORD0546,2024-10-15,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0250,Female,Beauty,Park Avenue Signature Perfume 100ml,2,3195,6390,Net Banking,2024,10,October,4
+ORD0033,2024-10-16,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0268,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,180,180,Credit Card,2024,10,October,4
+ORD0652,2024-10-16,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0154,Male,Beauty,Biotique Bio Sunscreen SPF60,3,793,2379,UPI,2024,10,October,4
+ORD0392,2024-10-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0617,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,513,1026,Cash,2024,10,October,4
+ORD0419,2024-10-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0198,Male,Home Appliances,Crompton 25L Geyser Water Heater,2,6135,12270,Debit Card,2024,10,October,4
+ORD0604,2024-10-18,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0184,Female,Home Appliances,Eureka Forbes Roboclean Vacuum,2,10932,21864,EMI,2024,10,October,4
+ORD0890,2024-10-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0364,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,908,908,EMI,2024,10,October,4
+ORD0941,2024-10-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0769,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,511,1022,Net Banking,2024,10,October,4
+ORD0401,2024-10-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0503,Male,Electronics,"Samsung 55"" Smart TV",1,59011,59011,EMI,2024,10,October,4
+ORD0671,2024-10-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0192,Male,Beauty,Nykaa Lipstick Set of 5,3,1222,3666,Debit Card,2024,10,October,4
+ORD0726,2024-10-19,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0796,Female,Electronics,Samsung Galaxy Tab S9,2,39877,79754,Cash,2024,10,October,4
+ORD1114,2024-10-19,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0565,Female,Grocery,Organic India Premium Basmati Rice 5kg,1,537,537,UPI,2024,10,October,4
+ORD1153,2024-10-19,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0714,Male,Beauty,Himalaya Purifying Neem Face Wash,2,316,632,EMI,2024,10,October,4
+ORD0201,2024-10-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0376,Female,Fashion,Raymond Men's Formal Shirt,5,1711,8555,Cash,2024,10,October,4
+ORD0550,2024-10-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0765,Male,Grocery,Fortune Refined Sunflower Oil 5L,3,760,2280,Debit Card,2024,10,October,4
+ORD0056,2024-10-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0714,Female,Grocery,Fortune Refined Sunflower Oil 5L,2,737,1474,Cash,2024,10,October,4
+ORD0208,2024-10-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0325,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1076,1076,Net Banking,2024,10,October,4
+ORD0264,2024-10-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0613,Female,Fashion,Nike Running Shoes Men,2,6204,12408,UPI,2024,10,October,4
+ORD1102,2024-10-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0166,Male,Grocery,Organic India Premium Basmati Rice 5kg,5,493,2465,Net Banking,2024,10,October,4
+ORD0438,2024-10-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0502,Male,Electronics,Canon EOS 200D Camera,2,54070,108140,UPI,2024,10,October,4
+ORD1007,2024-10-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0313,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,193,193,UPI,2024,10,October,4
+ORD0053,2024-10-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0330,Female,Grocery,Fortune Refined Sunflower Oil 5L,2,830,1660,EMI,2024,10,October,4
+ORD0123,2024-10-23,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0135,Male,Beauty,Dove Body Lotion 400ml,1,512,512,Credit Card,2024,10,October,4
+ORD0275,2024-10-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0303,Male,Electronics,Sony Headphones WH-1000XM5,2,11111,22222,Credit Card,2024,10,October,4
+ORD1004,2024-10-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0013,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,803,803,EMI,2024,10,October,4
+ORD1056,2024-10-23,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0166,Male,Electronics,LG Front Load Washing Machine,3,53115,159345,UPI,2024,10,October,4
+ORD0693,2024-10-24,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0652,Male,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,2927,5854,UPI,2024,10,October,4
+ORD0817,2024-10-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0775,Female,Fashion,Titan Raga Ladies Watch,5,8313,41565,Net Banking,2024,10,October,4
+ORD0012,2024-10-25,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0225,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,4,366,1464,Credit Card,2024,10,October,4
+ORD0041,2024-10-25,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0441,Male,Electronics,Redmi Note 13 Pro,5,24521,122605,Cash,2024,10,October,4
+ORD0230,2024-10-25,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0537,Female,Electronics,Sony Headphones WH-1000XM5,2,8258,16516,EMI,2024,10,October,4
+ORD0141,2024-10-26,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0333,Female,Beauty,Himalaya Purifying Neem Face Wash,2,275,550,Net Banking,2024,10,October,4
+ORD0292,2024-10-26,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0088,Female,Home Appliances,Bajaj 750W Mixer Grinder,1,2836,2836,UPI,2024,10,October,4
+ORD0589,2024-10-26,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0249,Male,Beauty,Mamaearth Onion Hair Oil 250ml,2,753,1506,Net Banking,2024,10,October,4
+ORD0096,2024-10-27,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0784,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,2,840,1680,UPI,2024,10,October,4
+ORD0318,2024-10-27,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0361,Female,Grocery,Britannia Digestive Biscuits Multipack,2,271,542,Debit Card,2024,10,October,4
+ORD0992,2024-10-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0549,Female,Home Appliances,Morphy Richards OTG 60L,1,9024,9024,Debit Card,2024,10,October,4
+ORD0089,2024-10-28,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0313,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,386,772,Debit Card,2024,10,October,4
+ORD0470,2024-10-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0462,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,5,968,4840,Cash,2024,10,October,4
+ORD0848,2024-10-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0547,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,400,800,UPI,2024,10,October,4
+ORD0385,2024-10-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0718,Female,Beauty,Mamaearth Onion Hair Oil 250ml,2,472,944,Credit Card,2024,10,October,4
+ORD0521,2024-10-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0421,Male,Fashion,Nike Running Shoes Men,2,5849,11698,Credit Card,2024,10,October,4
+ORD0649,2024-10-29,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0207,Female,Electronics,Redmi Note 13 Pro,2,23666,47332,EMI,2024,10,October,4
+ORD1081,2024-10-29,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0398,Female,Fashion,W Women's Casual Dress,2,3433,6866,Credit Card,2024,10,October,4
+ORD0066,2024-10-30,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0028,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,836,836,Debit Card,2024,10,October,4
+ORD0076,2024-10-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0252,Male,Fashion,H&M Women's Handbag,3,2998,8994,Net Banking,2024,10,October,4
+ORD0340,2024-10-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0697,Female,Electronics,Redmi Note 13 Pro,1,24693,24693,UPI,2024,10,October,4
+ORD0733,2024-10-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0399,Male,Home Appliances,Usha Table Fan 3 Speed,2,2523,5046,UPI,2024,10,October,4
+ORD0924,2024-10-30,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0793,Female,Home Appliances,Havells Ceiling Fan Premium,3,3452,10356,Debit Card,2024,10,October,4
+ORD0091,2024-10-31,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0034,Male,Fashion,Raymond Men's Formal Shirt,1,2129,2129,Credit Card,2024,10,October,4
+ORD1049,2024-10-31,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0567,Male,Fashion,H&M Women's Handbag,2,3252,6504,UPI,2024,10,October,4
+ORD0442,2024-11-01,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0445,Male,Fashion,H&M Women's Handbag,3,3471,10413,Credit Card,2024,11,November,4
+ORD0692,2024-11-01,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0389,Female,Grocery,Organic India Premium Basmati Rice 5kg,1,496,496,Credit Card,2024,11,November,4
+ORD0523,2024-11-02,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0653,Male,Beauty,Nykaa Lipstick Set of 5,1,987,987,Net Banking,2024,11,November,4
+ORD0868,2024-11-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0047,Male,Fashion,Titan Raga Ladies Watch,1,8120,8120,UPI,2024,11,November,4
+ORD1040,2024-11-02,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0455,Female,Electronics,Redmi Note 13 Pro,3,23272,69816,Cash,2024,11,November,4
+ORD0864,2024-11-03,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0290,Male,Fashion,Puma Men's Track Pants,1,1798,1798,Debit Card,2024,11,November,4
+ORD1166,2024-11-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0010,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,240,240,Credit Card,2024,11,November,4
+ORD0980,2024-11-04,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0378,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,629,629,Net Banking,2024,11,November,4
+ORD0417,2024-11-05,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0193,Female,Fashion,Puma Men's Track Pants,3,2492,7476,Debit Card,2024,11,November,4
+ORD0893,2024-11-05,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0690,Male,Grocery,Organic India Premium Basmati Rice 5kg,1,452,452,Cash,2024,11,November,4
+ORD1145,2024-11-05,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0666,Female,Fashion,Puma Men's Track Pants,4,1678,6712,Credit Card,2024,11,November,4
+ORD0121,2024-11-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0294,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,178,356,Net Banking,2024,11,November,4
+ORD0527,2024-11-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0488,Male,Beauty,Himalaya Purifying Neem Face Wash,3,328,984,Cash,2024,11,November,4
+ORD0850,2024-11-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0758,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,764,1528,Debit Card,2024,11,November,4
+ORD0943,2024-11-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0604,Male,Grocery,Organic India Premium Basmati Rice 5kg,2,624,1248,UPI,2024,11,November,4
+ORD1026,2024-11-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0302,Male,Grocery,Nescafe Classic Coffee 200g,1,643,643,Cash,2024,11,November,4
+ORD1105,2024-11-06,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0215,Male,Grocery,Organic India Premium Basmati Rice 5kg,1,571,571,Credit Card,2024,11,November,4
+ORD1143,2024-11-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0190,Female,Beauty,Dove Body Lotion 400ml,1,471,471,Cash,2024,11,November,4
+ORD0346,2024-11-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0708,Male,Home Appliances,Usha Table Fan 3 Speed,2,1920,3840,Net Banking,2024,11,November,4
+ORD0077,2024-11-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0345,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,173,346,Debit Card,2024,11,November,4
+ORD0116,2024-11-08,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0635,Male,Grocery,Fresh Fruits Combo Basket,1,746,746,EMI,2024,11,November,4
+ORD0177,2024-11-08,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0767,Female,Fashion,Adidas Women's Sports Shoes,5,4267,21335,UPI,2024,11,November,4
+ORD0328,2024-11-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0170,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,9299,9299,Debit Card,2024,11,November,4
+ORD0343,2024-11-08,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0451,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,3883,7766,EMI,2024,11,November,4
+ORD0461,2024-11-09,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0659,Male,Grocery,Haldiram's Bhujia Sev 1kg,4,426,1704,Cash,2024,11,November,4
+ORD0647,2024-11-09,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0707,Male,Grocery,Haldiram's Bhujia Sev 1kg,3,323,969,Cash,2024,11,November,4
+ORD0742,2024-11-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0162,Male,Beauty,L'Oreal Paris Revitalift Face Cream,1,706,706,Cash,2024,11,November,4
+ORD0901,2024-11-09,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0500,Male,Home Appliances,Havells Ceiling Fan Premium,2,3077,6154,Debit Card,2024,11,November,4
+ORD1072,2024-11-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0357,Female,Beauty,Park Avenue Signature Perfume 100ml,4,3148,12592,Cash,2024,11,November,4
+ORD0490,2024-11-10,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0250,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,4,198,792,Cash,2024,11,November,4
+ORD0539,2024-11-10,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0294,Male,Beauty,Biotique Bio Sunscreen SPF60,2,727,1454,Cash,2024,11,November,4
+ORD0541,2024-11-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0037,Female,Fashion,Levi's Men's Slim Fit Jeans,1,3144,3144,Debit Card,2024,11,November,4
+ORD0994,2024-11-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0521,Female,Home Appliances,Havells Ceiling Fan Premium,2,4532,9064,UPI,2024,11,November,4
+ORD0131,2024-11-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0287,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,813,1626,Credit Card,2024,11,November,4
+ORD0299,2024-11-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0110,Male,Fashion,Puma Men's Track Pants,3,2180,6540,UPI,2024,11,November,4
+ORD0378,2024-11-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0303,Female,Fashion,Arrow Men's Formal Trouser,1,2781,2781,Debit Card,2024,11,November,4
+ORD0480,2024-11-11,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0758,Male,Home Appliances,Havells Ceiling Fan Premium,1,4592,4592,EMI,2024,11,November,4
+ORD0486,2024-11-11,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0309,Female,Home Appliances,Havells Ceiling Fan Premium,1,4466,4466,EMI,2024,11,November,4
+ORD0643,2024-11-11,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0333,Female,Beauty,VLCC Anti Aging Serum 30ml,3,1114,3342,Net Banking,2024,11,November,4
+ORD0667,2024-11-11,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0180,Male,Fashion,W Women's Casual Dress,2,3177,6354,UPI,2024,11,November,4
+ORD0694,2024-11-11,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0201,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,2,188,376,EMI,2024,11,November,4
+ORD0895,2024-11-11,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0690,Female,Home Appliances,Bajaj 750W Mixer Grinder,1,3012,3012,Credit Card,2024,11,November,4
+ORD0983,2024-11-11,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0337,Male,Electronics,"Samsung 55"" Smart TV",1,61250,61250,Cash,2024,11,November,4
+ORD0159,2024-11-12,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0707,Female,Electronics,LG Front Load Washing Machine,2,39972,79944,UPI,2024,11,November,4
+ORD0460,2024-11-12,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0678,Male,Grocery,Nescafe Classic Coffee 200g,3,638,1914,Net Banking,2024,11,November,4
+ORD0465,2024-11-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0521,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,387,387,Cash,2024,11,November,4
+ORD0972,2024-11-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0098,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,4,367,1468,UPI,2024,11,November,4
+ORD0186,2024-11-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0114,Female,Grocery,Organic India Premium Basmati Rice 5kg,2,713,1426,EMI,2024,11,November,4
+ORD1107,2024-11-14,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0564,Female,Fashion,Nike Running Shoes Men,2,5138,10276,Debit Card,2024,11,November,4
+ORD0176,2024-11-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0170,Female,Electronics,Redmi Note 13 Pro,3,23540,70620,UPI,2024,11,November,4
+ORD0525,2024-11-15,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0271,Male,Home Appliances,Morphy Richards OTG 60L,2,10714,21428,Cash,2024,11,November,4
+ORD0623,2024-11-15,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0046,Male,Electronics,Redmi Note 13 Pro,3,19277,57831,Cash,2024,11,November,4
+ORD0921,2024-11-15,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0668,Female,Grocery,Nescafe Classic Coffee 200g,1,798,798,Debit Card,2024,11,November,4
+ORD0990,2024-11-15,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0729,Male,Electronics,Apple iPhone 15,1,83023,83023,Net Banking,2024,11,November,4
+ORD0101,2024-11-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0053,Male,Fashion,Nike Running Shoes Men,2,4679,9358,EMI,2024,11,November,4
+ORD0402,2024-11-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0205,Male,Electronics,Apple iPhone 15,1,80456,80456,Cash,2024,11,November,4
+ORD0634,2024-11-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0428,Male,Grocery,Nescafe Classic Coffee 200g,1,848,848,Net Banking,2024,11,November,4
+ORD0664,2024-11-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0756,Male,Home Appliances,Philips Steam Iron 2400W,1,3047,3047,Debit Card,2024,11,November,4
+ORD0974,2024-11-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0105,Male,Grocery,Britannia Digestive Biscuits Multipack,2,347,694,Net Banking,2024,11,November,4
+ORD1032,2024-11-16,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0213,Female,Beauty,L'Oreal Paris Revitalift Face Cream,1,937,937,Debit Card,2024,11,November,4
+ORD1158,2024-11-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0365,Male,Home Appliances,Usha Table Fan 3 Speed,1,1861,1861,Cash,2024,11,November,4
+ORD0013,2024-11-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0697,Female,Grocery,Nescafe Classic Coffee 200g,2,697,1394,UPI,2024,11,November,4
+ORD0522,2024-11-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0587,Male,Electronics,Dell Inspiron Laptop,2,50899,101798,UPI,2024,11,November,4
+ORD0560,2024-11-18,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0738,Female,Home Appliances,Usha Table Fan 3 Speed,2,2013,4026,Net Banking,2024,11,November,4
+ORD0856,2024-11-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0657,Male,Electronics,Sony Headphones WH-1000XM5,1,13147,13147,Net Banking,2024,11,November,4
+ORD0886,2024-11-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0042,Female,Beauty,Forest Essentials Luxury Face Wash,2,1863,3726,Credit Card,2024,11,November,4
+ORD1146,2024-11-18,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0124,Male,Grocery,Fortune Refined Sunflower Oil 5L,3,749,2247,Cash,2024,11,November,4
+ORD1149,2024-11-18,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0447,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,5,1376,6880,Cash,2024,11,November,4
+ORD0437,2024-11-19,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0321,Male,Electronics,Dell Inspiron Laptop,3,51861,155583,Credit Card,2024,11,November,4
+ORD0475,2024-11-19,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0215,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,2,691,1382,EMI,2024,11,November,4
+ORD0663,2024-11-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0185,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,6006,6006,UPI,2024,11,November,4
+ORD1055,2024-11-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0029,Male,Fashion,H&M Women's Handbag,1,2603,2603,Net Banking,2024,11,November,4
+ORD1126,2024-11-19,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0223,Female,Beauty,Himalaya Purifying Neem Face Wash,4,209,836,Net Banking,2024,11,November,4
+ORD0840,2024-11-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0423,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,2,2525,5050,Credit Card,2024,11,November,4
+ORD1044,2024-11-20,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0210,Male,Electronics,Philips Air Fryer,3,9496,28488,Credit Card,2024,11,November,4
+ORD1077,2024-11-20,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0093,Female,Beauty,Mamaearth Onion Hair Oil 250ml,4,792,3168,Cash,2024,11,November,4
+ORD1160,2024-11-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0212,Female,Fashion,Raymond Men's Formal Shirt,2,1617,3234,UPI,2024,11,November,4
+ORD0364,2024-11-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0010,Female,Electronics,Canon EOS 200D Camera,1,50076,50076,Net Banking,2024,11,November,4
+ORD0060,2024-11-22,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0797,Female,Grocery,Britannia Digestive Biscuits Multipack,1,362,362,Debit Card,2024,11,November,4
+ORD0085,2024-11-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0503,Male,Beauty,Mamaearth Onion Hair Oil 250ml,2,545,1090,UPI,2024,11,November,4
+ORD0367,2024-11-22,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0077,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,721,721,Debit Card,2024,11,November,4
+ORD0476,2024-11-22,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0119,Female,Grocery,Fresh Fruits Combo Basket,4,1184,4736,EMI,2024,11,November,4
+ORD0596,2024-11-22,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0752,Male,Beauty,Mamaearth Onion Hair Oil 250ml,3,586,1758,Credit Card,2024,11,November,4
+ORD0996,2024-11-22,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0598,Male,Fashion,Adidas Women's Sports Shoes,4,4851,19404,UPI,2024,11,November,4
+ORD0001,2024-11-23,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0760,Female,Fashion,Nike Running Shoes Men,1,6516,6516,EMI,2024,11,November,4
+ORD0198,2024-11-23,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0059,Male,Grocery,Nescafe Classic Coffee 200g,2,693,1386,EMI,2024,11,November,4
+ORD0209,2024-11-23,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0787,Male,Grocery,Organic India Premium Basmati Rice 5kg,2,513,1026,Debit Card,2024,11,November,4
+ORD0744,2024-11-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0462,Female,Fashion,Nike Running Shoes Men,2,6000,12000,Net Banking,2024,11,November,4
+ORD0851,2024-11-23,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0372,Male,Grocery,Fortune Refined Sunflower Oil 5L,2,919,1838,Cash,2024,11,November,4
+ORD0984,2024-11-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0236,Female,Grocery,Fortune Refined Sunflower Oil 5L,3,823,2469,Debit Card,2024,11,November,4
+ORD0015,2024-11-24,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0301,Female,Electronics,"Samsung 55"" Smart TV",4,68661,274644,Debit Card,2024,11,November,4
+ORD0212,2024-11-24,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0595,Male,Electronics,Philips Air Fryer,1,9957,9957,Net Banking,2024,11,November,4
+ORD1156,2024-11-24,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0216,Male,Electronics,Redmi Note 13 Pro,2,23182,46364,Debit Card,2024,11,November,4
+ORD0139,2024-11-25,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0063,Female,Home Appliances,Philips Steam Iron 2400W,1,3605,3605,EMI,2024,11,November,4
+ORD0266,2024-11-25,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0538,Female,Grocery,Nescafe Classic Coffee 200g,1,638,638,Credit Card,2024,11,November,4
+ORD0881,2024-11-25,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0057,Male,Grocery,Fresh Fruits Combo Basket,1,990,990,Debit Card,2024,11,November,4
+ORD1078,2024-11-25,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0735,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,4,1394,5576,Credit Card,2024,11,November,4
+ORD0200,2024-11-26,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0393,Male,Grocery,Haldiram's Bhujia Sev 1kg,1,394,394,Cash,2024,11,November,4
+ORD0509,2024-11-26,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0288,Male,Beauty,Forest Essentials Luxury Face Wash,3,1469,4407,EMI,2024,11,November,4
+ORD0793,2024-11-26,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0123,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,3,436,1308,Net Banking,2024,11,November,4
+ORD1018,2024-11-26,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0468,Female,Home Appliances,Usha Table Fan 3 Speed,2,2300,4600,Credit Card,2024,11,November,4
+ORD0245,2024-11-27,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0191,Male,Home Appliances,Usha Table Fan 3 Speed,2,2662,5324,Credit Card,2024,11,November,4
+ORD0112,2024-11-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0337,Female,Beauty,Park Avenue Signature Perfume 100ml,1,2908,2908,Cash,2024,11,November,4
+ORD0183,2024-11-28,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0150,Male,Electronics,Samsung Galaxy Tab S9,3,39547,118641,UPI,2024,11,November,4
+ORD0069,2024-11-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0032,Male,Electronics,"Samsung 55"" Smart TV",1,65359,65359,Credit Card,2024,11,November,4
+ORD0950,2024-11-29,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0312,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,3,1004,3012,Credit Card,2024,11,November,4
+ORD0959,2024-11-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0032,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,3,198,594,Debit Card,2024,11,November,4
+ORD1092,2024-11-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0744,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,5,792,3960,UPI,2024,11,November,4
+ORD1199,2024-11-29,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0788,Female,Grocery,Tropicana Orange Juice 1L Pack of 6,1,773,773,Net Banking,2024,11,November,4
+ORD0464,2024-11-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0414,Female,Electronics,JBL Portable Bluetooth Speaker,3,3001,9003,Net Banking,2024,11,November,4
+ORD1198,2024-11-30,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0736,Male,Beauty,Himalaya Purifying Neem Face Wash,5,332,1660,Net Banking,2024,11,November,4
+ORD0774,2024-12-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0335,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1331,2662,UPI,2024,12,December,4
+ORD0880,2024-12-01,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0464,Female,Beauty,Mamaearth Onion Hair Oil 250ml,1,466,466,Cash,2024,12,December,4
+ORD1061,2024-12-01,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0442,Male,Electronics,Apple iPhone 15,1,81535,81535,UPI,2024,12,December,4
+ORD0315,2024-12-02,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0030,Male,Grocery,Nescafe Classic Coffee 200g,1,699,699,Credit Card,2024,12,December,4
+ORD0600,2024-12-02,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0639,Female,Electronics,Sony Headphones WH-1000XM5,3,12963,38889,Cash,2024,12,December,4
+ORD0873,2024-12-02,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0451,Male,Electronics,"Samsung 55"" Smart TV",1,52532,52532,UPI,2024,12,December,4
+ORD0747,2024-12-03,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0055,Male,Electronics,Apple iPhone 15,3,81227,243681,UPI,2024,12,December,4
+ORD0843,2024-12-03,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0660,Male,Beauty,Park Avenue Signature Perfume 100ml,1,3402,3402,Cash,2024,12,December,4
+ORD1096,2024-12-03,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0475,Female,Fashion,H&M Women's Handbag,1,3504,3504,Cash,2024,12,December,4
+ORD0090,2024-12-04,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0246,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,2,601,1202,EMI,2024,12,December,4
+ORD0153,2024-12-04,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0622,Female,Fashion,Adidas Women's Sports Shoes,1,5098,5098,UPI,2024,12,December,4
+ORD0171,2024-12-05,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0359,Female,Beauty,VLCC Anti Aging Serum 30ml,2,832,1664,Cash,2024,12,December,4
+ORD0447,2024-12-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0638,Male,Fashion,Fabindia Women's Kurta Set,3,2547,7641,Cash,2024,12,December,4
+ORD0552,2024-12-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0007,Male,Home Appliances,Morphy Richards OTG 60L,2,9583,19166,Net Banking,2024,12,December,4
+ORD0836,2024-12-05,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0205,Female,Fashion,Titan Raga Ladies Watch,2,9221,18442,Net Banking,2024,12,December,4
+ORD1183,2024-12-05,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0489,Male,Electronics,Redmi Note 13 Pro,1,19157,19157,Cash,2024,12,December,4
+ORD0050,2024-12-06,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0639,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,398,796,EMI,2024,12,December,4
+ORD0605,2024-12-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0107,Male,Home Appliances,Havells Ceiling Fan Premium,2,4644,9288,EMI,2024,12,December,4
+ORD1031,2024-12-06,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0172,Male,Fashion,Fabindia Women's Kurta Set,1,3170,3170,Net Banking,2024,12,December,4
+ORD1066,2024-12-06,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0043,Male,Fashion,Levi's Men's Slim Fit Jeans,2,4038,8076,Debit Card,2024,12,December,4
+ORD1068,2024-12-06,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0626,Male,Beauty,Dove Body Lotion 400ml,1,351,351,EMI,2024,12,December,4
+ORD1084,2024-12-06,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0720,Male,Grocery,Britannia Digestive Biscuits Multipack,5,378,1890,Cash,2024,12,December,4
+ORD0588,2024-12-07,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0116,Male,Grocery,Tata Salt Iodized 1kg Pack of 5,1,151,151,Debit Card,2024,12,December,4
+ORD0735,2024-12-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0695,Male,Home Appliances,Crompton 25L Geyser Water Heater,1,9788,9788,EMI,2024,12,December,4
+ORD0832,2024-12-07,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0630,Female,Fashion,Puma Men's Track Pants,2,1913,3826,Cash,2024,12,December,4
+ORD0982,2024-12-07,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0709,Female,Grocery,Tata Salt Iodized 1kg Pack of 5,2,224,448,Debit Card,2024,12,December,4
+ORD1173,2024-12-07,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0640,Female,Fashion,Fabindia Women's Kurta Set,4,2055,8220,EMI,2024,12,December,4
+ORD0239,2024-12-08,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0232,Male,Electronics,Canon EOS 200D Camera,3,50823,152469,Cash,2024,12,December,4
+ORD0278,2024-12-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0007,Female,Electronics,Sony Headphones WH-1000XM5,3,8556,25668,Cash,2024,12,December,4
+ORD1144,2024-12-08,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0566,Male,Fashion,W Women's Casual Dress,3,3321,9963,Net Banking,2024,12,December,4
+ORD0008,2024-12-09,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0700,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,3,873,2619,Credit Card,2024,12,December,4
+ORD0034,2024-12-09,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0469,Female,Beauty,L'Oreal Paris Revitalift Face Cream,2,709,1418,Net Banking,2024,12,December,4
+ORD0431,2024-12-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0308,Male,Home Appliances,Havells Ceiling Fan Premium,1,3741,3741,UPI,2024,12,December,4
+ORD0683,2024-12-09,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0081,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,2,449,898,UPI,2024,12,December,4
+ORD0869,2024-12-09,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0573,Male,Grocery,Britannia Digestive Biscuits Multipack,2,293,586,Debit Card,2024,12,December,4
+ORD0025,2024-12-10,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0662,Male,Electronics,Redmi Note 13 Pro,4,24558,98232,Credit Card,2024,12,December,4
+ORD0127,2024-12-10,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0391,Female,Electronics,Sony Headphones WH-1000XM5,1,11862,11862,Net Banking,2024,12,December,4
+ORD0549,2024-12-10,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0351,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,1,843,843,Credit Card,2024,12,December,4
+ORD0958,2024-12-10,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0570,Female,Home Appliances,Havells Ceiling Fan Premium,3,3332,9996,EMI,2024,12,December,4
+ORD0052,2024-12-12,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0179,Female,Fashion,Levi's Men's Slim Fit Jeans,1,3744,3744,UPI,2024,12,December,4
+ORD0308,2024-12-12,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0771,Female,Beauty,VLCC Anti Aging Serum 30ml,1,808,808,Debit Card,2024,12,December,4
+ORD0751,2024-12-12,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0236,Male,Fashion,Fabindia Women's Kurta Set,3,1985,5955,Credit Card,2024,12,December,4
+ORD1027,2024-12-12,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0452,Female,Electronics,"Samsung 55"" Smart TV",2,74251,148502,Credit Card,2024,12,December,4
+ORD1108,2024-12-12,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0712,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,3,440,1320,EMI,2024,12,December,4
+ORD0199,2024-12-13,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0032,Male,Home Appliances,Kent Grand Plus RO Water Purifier,1,15285,15285,Credit Card,2024,12,December,4
+ORD0330,2024-12-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0139,Female,Beauty,Nykaa Lipstick Set of 5,1,1571,1571,Credit Card,2024,12,December,4
+ORD0508,2024-12-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0492,Female,Grocery,Britannia Digestive Biscuits Multipack,2,374,748,Credit Card,2024,12,December,4
+ORD0814,2024-12-13,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0014,Female,Grocery,Nescafe Classic Coffee 200g,2,712,1424,EMI,2024,12,December,4
+ORD1093,2024-12-13,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0058,Male,Fashion,H&M Women's Handbag,4,2735,10940,Cash,2024,12,December,4
+ORD0234,2024-12-14,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0710,Female,Grocery,Fortune Refined Sunflower Oil 5L,1,945,945,Net Banking,2024,12,December,4
+ORD0240,2024-12-14,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0006,Male,Fashion,H&M Women's Handbag,2,3955,7910,Debit Card,2024,12,December,4
+ORD0849,2024-12-15,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0285,Male,Fashion,W Women's Casual Dress,1,3482,3482,EMI,2024,12,December,4
+ORD0964,2024-12-15,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0180,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,1,376,376,Net Banking,2024,12,December,4
+ORD0073,2024-12-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0124,Male,Fashion,Puma Men's Track Pants,1,2258,2258,EMI,2024,12,December,4
+ORD0297,2024-12-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0143,Female,Fashion,H&M Women's Handbag,1,2597,2597,UPI,2024,12,December,4
+ORD0513,2024-12-16,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0527,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,4,889,3556,EMI,2024,12,December,4
+ORD0798,2024-12-16,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0278,Female,Electronics,Philips Air Fryer,3,7880,23640,Cash,2024,12,December,4
+ORD0884,2024-12-16,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0368,Male,Home Appliances,Havells Ceiling Fan Premium,2,3818,7636,UPI,2024,12,December,4
+ORD1016,2024-12-16,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0207,Male,Beauty,Park Avenue Signature Perfume 100ml,3,1931,5793,Net Banking,2024,12,December,4
+ORD0407,2024-12-17,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0487,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,4,410,1640,EMI,2024,12,December,4
+ORD0640,2024-12-17,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0082,Female,Electronics,Philips Air Fryer,3,8840,26520,Debit Card,2024,12,December,4
+ORD1008,2024-12-17,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0782,Female,Fashion,Levi's Men's Slim Fit Jeans,3,4824,14472,Credit Card,2024,12,December,4
+ORD0094,2024-12-18,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0413,Female,Grocery,Haldiram's Bhujia Sev 1kg,1,412,412,Cash,2024,12,December,4
+ORD0229,2024-12-18,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0612,Female,Fashion,Titan Raga Ladies Watch,1,9731,9731,Cash,2024,12,December,4
+ORD0422,2024-12-18,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0029,Female,Electronics,Philips Air Fryer,4,6755,27020,EMI,2024,12,December,4
+ORD1054,2024-12-18,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0060,Female,Beauty,Forest Essentials Luxury Face Wash,2,1448,2896,Debit Card,2024,12,December,4
+ORD0020,2024-12-19,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0320,Female,Beauty,Dove Body Lotion 400ml,4,524,2096,UPI,2024,12,December,4
+ORD0310,2024-12-19,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0354,Male,Grocery,Britannia Digestive Biscuits Multipack,4,356,1424,Cash,2024,12,December,4
+ORD0718,2024-12-19,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0321,Male,Grocery,Amul Gold Full Cream Milk 6 Litres,2,361,722,Net Banking,2024,12,December,4
+ORD0195,2024-12-20,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0532,Female,Home Appliances,Philips Steam Iron 2400W,2,2361,4722,Credit Card,2024,12,December,4
+ORD0249,2024-12-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0684,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,2,807,1614,EMI,2024,12,December,4
+ORD0304,2024-12-20,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0419,Female,Electronics,Dell Inspiron Laptop,1,52930,52930,Credit Card,2024,12,December,4
+ORD0306,2024-12-20,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0038,Female,Home Appliances,Havells Ceiling Fan Premium,2,5432,10864,Cash,2024,12,December,4
+ORD0472,2024-12-20,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0749,Male,Electronics,Philips Air Fryer,4,9965,39860,Net Banking,2024,12,December,4
+ORD1168,2024-12-20,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0557,Male,Electronics,"Samsung 55"" Smart TV",2,48369,96738,Cash,2024,12,December,4
+ORD0149,2024-12-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0185,Female,Home Appliances,Usha Table Fan 3 Speed,1,2195,2195,Credit Card,2024,12,December,4
+ORD0333,2024-12-21,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0378,Female,Beauty,Dove Body Lotion 400ml,1,597,597,EMI,2024,12,December,4
+ORD0341,2024-12-21,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0073,Male,Fashion,Fabindia Women's Kurta Set,1,1711,1711,Debit Card,2024,12,December,4
+ORD0690,2024-12-21,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0679,Male,Home Appliances,Eureka Forbes Roboclean Vacuum,1,11986,11986,Net Banking,2024,12,December,4
+ORD1179,2024-12-21,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0225,Male,Fashion,Levi's Men's Slim Fit Jeans,5,3332,16660,Cash,2024,12,December,4
+ORD0191,2024-12-22,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0187,Male,Electronics,Samsung Galaxy Tab S9,1,36211,36211,Cash,2024,12,December,4
+ORD0416,2024-12-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0234,Male,Fashion,H&M Women's Handbag,1,3314,3314,UPI,2024,12,December,4
+ORD0530,2024-12-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0436,Male,Fashion,Adidas Women's Sports Shoes,1,3343,3343,Net Banking,2024,12,December,4
+ORD1036,2024-12-22,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0790,Male,Fashion,W Women's Casual Dress,2,3164,6328,Debit Card,2024,12,December,4
+ORD1109,2024-12-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0732,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1209,1209,Credit Card,2024,12,December,4
+ORD1182,2024-12-22,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0387,Male,Grocery,Nescafe Classic Coffee 200g,1,695,695,Cash,2024,12,December,4
+ORD0529,2024-12-23,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0235,Female,Home Appliances,Philips Steam Iron 2400W,2,2917,5834,EMI,2024,12,December,4
+ORD1021,2024-12-23,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0223,Female,Fashion,Arrow Men's Formal Trouser,5,2048,10240,Cash,2024,12,December,4
+ORD1060,2024-12-23,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0173,Female,Electronics,LG Front Load Washing Machine,2,54816,109632,UPI,2024,12,December,4
+ORD1185,2024-12-23,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0482,Female,Home Appliances,Kent Grand Plus RO Water Purifier,2,21401,42802,Cash,2024,12,December,4
+ORD0339,2024-12-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0440,Male,Home Appliances,Voltas 1.5T 3 Star Split AC,2,35496,70992,Credit Card,2024,12,December,4
+ORD0569,2024-12-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0216,Male,Fashion,Fabindia Women's Kurta Set,4,1630,6520,UPI,2024,12,December,4
+ORD1087,2024-12-24,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0795,Male,Home Appliances,Philips Steam Iron 2400W,5,2812,14060,EMI,2024,12,December,4
+ORD1140,2024-12-24,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0237,Male,Fashion,H&M Women's Handbag,2,2251,4502,EMI,2024,12,December,4
+ORD0354,2024-12-25,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0509,Female,Grocery,Britannia Digestive Biscuits Multipack,1,292,292,EMI,2024,12,December,4
+ORD0389,2024-12-26,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0406,Male,Fashion,W Women's Casual Dress,5,2079,10395,EMI,2024,12,December,4
+ORD0420,2024-12-26,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0378,Female,Grocery,Amul Gold Full Cream Milk 6 Litres,1,447,447,Debit Card,2024,12,December,4
+ORD0680,2024-12-26,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0588,Male,Electronics,Dell Inspiron Laptop,4,65095,260380,Net Banking,2024,12,December,4
+ORD0109,2024-12-27,STR007,Lulu Mall Lucknow,Lucknow,Uttar Pradesh,North,CUST0391,Female,Beauty,Biotique Bio Sunscreen SPF60,5,653,3265,Credit Card,2024,12,December,4
+ORD0743,2024-12-27,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0291,Female,Grocery,Haldiram's Bhujia Sev 1kg,1,477,477,Credit Card,2024,12,December,4
+ORD0075,2024-12-28,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0181,Female,Grocery,MTR Ready-to-Eat Meals Pack of 10,2,1296,2592,UPI,2024,12,December,4
+ORD0228,2024-12-28,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0487,Male,Fashion,Fabindia Women's Kurta Set,2,2353,4706,EMI,2024,12,December,4
+ORD0394,2024-12-28,STR005,Lulu Mall Mumbai,Mumbai,Maharashtra,West,CUST0747,Female,Grocery,Britannia Digestive Biscuits Multipack,1,303,303,Cash,2024,12,December,4
+ORD0313,2024-12-29,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0352,Male,Grocery,Tropicana Orange Juice 1L Pack of 6,2,724,1448,Net Banking,2024,12,December,4
+ORD0567,2024-12-29,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0661,Female,Fashion,H&M Women's Handbag,3,3487,10461,Net Banking,2024,12,December,4
+ORD0293,2024-12-30,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0158,Female,Fashion,Fabindia Women's Kurta Set,1,1687,1687,Debit Card,2024,12,December,4
+ORD0356,2024-12-30,STR008,Lulu Mall Coimbatore,Coimbatore,Tamil Nadu,South,CUST0643,Male,Grocery,MTR Ready-to-Eat Meals Pack of 10,1,1084,1084,Net Banking,2024,12,December,4
+ORD0703,2024-12-30,STR004,Lulu Mall Kochi,Kochi,Kerala,South,CUST0421,Female,Electronics,"Samsung 55"" Smart TV",2,63617,127234,Debit Card,2024,12,December,4
+ORD0905,2024-12-30,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0427,Female,Home Appliances,Prestige Electric Rice Cooker 1.8L,1,3273,3273,EMI,2024,12,December,4
+ORD0380,2024-12-31,STR003,Lulu Mall Chennai,Chennai,Tamil Nadu,South,CUST0558,Female,Fashion,Titan Raga Ladies Watch,1,9115,9115,Debit Card,2024,12,December,4
+ORD0585,2024-12-31,STR002,Lulu Mall Hyderabad,Hyderabad,Telangana,South,CUST0790,Female,Fashion,Levi's Men's Slim Fit Jeans,2,3315,6630,Cash,2024,12,December,4
+ORD0919,2024-12-31,STR006,Lulu Mall Delhi,Delhi,Delhi,North,CUST0533,Female,Fashion,Arrow Men's Formal Trouser,3,2423,7269,Debit Card,2024,12,December,4
+ORD1116,2024-12-31,STR001,Lulu Mall Bangalore,Bangalore,Karnataka,South,CUST0130,Male,Fashion,Raymond Men's Formal Shirt,4,1308,5232,EMI,2024,12,December,4
