@@ -4,7 +4,7 @@ An end-to-end retail analytics project combining **Python, Excel, MySQL/SQL, Pow
 
 ## 🚀 Live Demo
 
-**[Open the Live Recommendation System](https://lulmall-retailanalytics-recommendationsystem.streamlit.app/)**
+**[Open the Live Recommendation System](https://lulumall-retailanalytics-recommendationsystem.streamlit.app/)**
 
 The deployed application supports:
 - Product-based recommendations
